@@ -10,7 +10,7 @@ import os
 # Create your views here.
 def index(request):
     # times = int(os.environ.get('TIMES', 3))
-    return HttpResponse("Hello! " + request.body)
+    return HttpResponse("Hello! " + str(request.body))
     # return HttpResponse('Hello! ' * 5)
 
 
