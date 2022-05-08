@@ -3,11 +3,14 @@ from django.http import HttpResponse
 
 from .models import Greeting
 
+from django.views.decorators.csrf import csrf_exempt
+
 import requests
 import os
 
 
 # Create your views here.
+@csrf_exempt
 def index(request):
     # times = int(os.environ.get('TIMES', 3))
     return HttpResponse("Hello! " + str(request.body))
