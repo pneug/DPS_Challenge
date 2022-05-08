@@ -11,14 +11,13 @@ import os
 
 # import the Challenge class from the python file Challenge.py
 from .Challenge import Challenge
-# from Challenge import Challenge
 
 
 # Create your views here.
 @csrf_exempt
 def index(request):
     # times = int(os.environ.get('TIMES', 3))
-    json_body = request.body
+    json_body = str(request.body)
     if not "month" in json_body:
         return HttpResponse("month is missing")
     if not "year" in json_body:
