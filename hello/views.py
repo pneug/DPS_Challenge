@@ -9,7 +9,9 @@ from datetime import datetime
 import requests
 import os
 
-from Challenge import Challenge
+# import the Challenge class from the python file Challenge.py
+from .Challenge import Challenge
+# from Challenge import Challenge
 
 
 # Create your views here.
