@@ -5,7 +5,10 @@ from django.test import Client
 
 # Define the URL
 url = "https://frozen-mesa-35935.herokuapp.com/"
-body = {'name': 'John', 'age': '27'}
+body = {
+    "year":2020,
+    "month":10
+}
 
 #csrf_client = Client(enforce_csrf_checks=True)
 
