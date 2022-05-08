@@ -22,9 +22,11 @@ def index(request):
     # return HttpResponse(str(json_body) + str(type(json_body)))
     # json_body = str(request.body)
     if not "month" in json_body:
-        return HttpResponse("month is missing")
+        json_body["month"] = "1"
+        #return HttpResponse("month is missing")
     if not "year" in json_body:
-        return HttpResponse("year is missing")
+        json_body["year"] = "2021"
+        # return HttpResponse("year is missing")
 
     challenge = Challenge()
     challenge.setup()

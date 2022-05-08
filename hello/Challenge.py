@@ -37,7 +37,7 @@ def visualize(categories, months, incidents, useLog=False):
 
 class Challenge:
     def setup(self, visualize_data=False):
-        filename = 'data/monatszahlen2112_verkehrsunfaelle.csv'
+        filename = 'hello/data/monatszahlen2112_verkehrsunfaelle.csv'
         with open(filename) as f:
             reader = csv.reader(f, delimiter=';')
             data = list(reader)
