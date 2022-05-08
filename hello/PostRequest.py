@@ -7,11 +7,11 @@ from django.test import Client
 url = "https://frozen-mesa-35935.herokuapp.com/"
 body = {'name': 'John', 'age': '27'}
 
-csrf_client = Client(enforce_csrf_checks=True)
+#csrf_client = Client(enforce_csrf_checks=True)
 
 # Retrieve the CSRF token first
-csrf_client.get(URL)  # sets cookie
-csrftoken = csrf_client.cookies['csrftoken']
+#csrf_client.get(url)  # sets cookie
+#csrftoken = csrf_client.cookies['csrftoken']
 
 # send a POST request
 # r = requests.post(url, data=body, headers={'referer': url})

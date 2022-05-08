@@ -1,0 +1,1996 @@
+MONATSZAHL;AUSPRAEGUNG;JAHR;MONAT;WERT;VORJAHRESWERT;VERAEND_VORMONAT_PROZENT;VERAEND_VORJAHRESMONAT_PROZENT;ZWOELF_MONATE_MITTELWERT
+Alkoholunfälle;insgesamt;2021;202101;;28;;;
+Alkoholunfälle;insgesamt;2021;202102;;40;;;
+Alkoholunfälle;insgesamt;2021;202103;;27;;;
+Alkoholunfälle;insgesamt;2021;202104;;26;;;
+Alkoholunfälle;insgesamt;2021;202105;;40;;;
+Alkoholunfälle;insgesamt;2021;202106;;49;;;
+Alkoholunfälle;insgesamt;2021;202107;;58;;;
+Alkoholunfälle;insgesamt;2021;202108;;46;;;
+Alkoholunfälle;insgesamt;2021;202109;;46;;;
+Alkoholunfälle;insgesamt;2021;202110;;34;;;
+Alkoholunfälle;insgesamt;2021;202111;;23;;;
+Alkoholunfälle;insgesamt;2021;202112;;13;;;
+Alkoholunfälle;insgesamt;2020;Summe;430;434;;-92;
+Alkoholunfälle;insgesamt;2020;202001;28;22;-20;2727;37
+Alkoholunfälle;insgesamt;2020;202002;40;28;4286;4286;38
+Alkoholunfälle;insgesamt;2020;202003;27;34;-325;-2059;37
+Alkoholunfälle;insgesamt;2020;202004;26;36;-37;-2778;36
+Alkoholunfälle;insgesamt;2020;202005;40;39;5385;256;36
+Alkoholunfälle;insgesamt;2020;202006;49;40;225;225;37
+Alkoholunfälle;insgesamt;2020;202007;58;48;1837;2083;38
+Alkoholunfälle;insgesamt;2020;202008;46;31;-2069;4839;39
+Alkoholunfälle;insgesamt;2020;202009;46;47;0;-213;39
+Alkoholunfälle;insgesamt;2020;202010;34;45;-2609;-2444;38
+Alkoholunfälle;insgesamt;2020;202011;23;29;-3235;-2069;38
+Alkoholunfälle;insgesamt;2020;202012;13;35;-4348;-6286;36
+Alkoholunfälle;insgesamt;2019;Summe;434;398;;905;
+Alkoholunfälle;insgesamt;2019;201901;22;22;476;0;33
+Alkoholunfälle;insgesamt;2019;201902;28;24;2727;1667;34
+Alkoholunfälle;insgesamt;2019;201903;34;32;2143;625;34
+Alkoholunfälle;insgesamt;2019;201904;36;25;588;44;35
+Alkoholunfälle;insgesamt;2019;201905;39;34;833;1471;35
+Alkoholunfälle;insgesamt;2019;201906;40;39;256;256;35
+Alkoholunfälle;insgesamt;2019;201907;48;51;20;-588;35
+Alkoholunfälle;insgesamt;2019;201908;31;40;-3542;-225;34
+Alkoholunfälle;insgesamt;2019;201909;47;36;5161;3056;35
+Alkoholunfälle;insgesamt;2019;201910;45;43;-426;465;35
+Alkoholunfälle;insgesamt;2019;201911;29;31;-3556;-645;35
+Alkoholunfälle;insgesamt;2019;201912;35;21;2069;6667;36
+Alkoholunfälle;insgesamt;2018;Summe;398;409;;-269;
+Alkoholunfälle;insgesamt;2018;201801;22;19;-4762;1579;34
+Alkoholunfälle;insgesamt;2018;201802;24;22;909;909;35
+Alkoholunfälle;insgesamt;2018;201803;32;36;3333;-1111;34
+Alkoholunfälle;insgesamt;2018;201804;25;26;-2188;-385;34
+Alkoholunfälle;insgesamt;2018;201805;34;29;36;1724;35
+Alkoholunfälle;insgesamt;2018;201806;39;41;1471;-488;34
+Alkoholunfälle;insgesamt;2018;201807;51;52;3077;-192;34
+Alkoholunfälle;insgesamt;2018;201808;40;30;-2157;3333;35
+Alkoholunfälle;insgesamt;2018;201809;36;47;-10;-234;34
+Alkoholunfälle;insgesamt;2018;201810;43;32;1944;3438;35
+Alkoholunfälle;insgesamt;2018;201811;31;33;-2791;-606;35
+Alkoholunfälle;insgesamt;2018;201812;21;42;-3226;-50;33
+Alkoholunfälle;insgesamt;2017;Summe;409;301;;3588;
+Alkoholunfälle;insgesamt;2017;201701;19;21;-5;-952;25
+Alkoholunfälle;insgesamt;2017;201702;22;10;1579;120;26
+Alkoholunfälle;insgesamt;2017;201703;36;20;6364;80;27
+Alkoholunfälle;insgesamt;2017;201704;26;27;-2778;-37;27
+Alkoholunfälle;insgesamt;2017;201705;29;25;1154;16;28
+Alkoholunfälle;insgesamt;2017;201706;41;30;4138;3667;28
+Alkoholunfälle;insgesamt;2017;201707;52;35;2683;4857;30
+Alkoholunfälle;insgesamt;2017;201708;30;34;-4231;-1176;30
+Alkoholunfälle;insgesamt;2017;201709;47;29;5667;6207;31
+Alkoholunfälle;insgesamt;2017;201710;32;30;-3191;667;31
+Alkoholunfälle;insgesamt;2017;201711;33;20;313;65;32
+Alkoholunfälle;insgesamt;2017;201712;42;20;2727;110;34
+Alkoholunfälle;insgesamt;2016;Summe;301;411;;-2676;
+Alkoholunfälle;insgesamt;2016;201601;21;22;-2222;-455;34
+Alkoholunfälle;insgesamt;2016;201602;10;23;-5238;-5652;33
+Alkoholunfälle;insgesamt;2016;201603;20;23;100;-1304;33
+Alkoholunfälle;insgesamt;2016;201604;27;29;35;-69;33
+Alkoholunfälle;insgesamt;2016;201605;25;50;-741;-50;31
+Alkoholunfälle;insgesamt;2016;201606;30;39;20;-2308;30
+Alkoholunfälle;insgesamt;2016;201607;35;49;1667;-2857;29
+Alkoholunfälle;insgesamt;2016;201608;34;49;-286;-3061;27
+Alkoholunfälle;insgesamt;2016;201609;29;45;-1471;-3556;26
+Alkoholunfälle;insgesamt;2016;201610;30;25;345;20;27
+Alkoholunfälle;insgesamt;2016;201611;20;30;-3333;-3333;26
+Alkoholunfälle;insgesamt;2016;201612;20;27;0;-2593;25
+Alkoholunfälle;insgesamt;2015;Summe;411;382;;759;
+Alkoholunfälle;insgesamt;2015;201501;22;21;-12;476;32
+Alkoholunfälle;insgesamt;2015;201502;23;17;455;3529;32
+Alkoholunfälle;insgesamt;2015;201503;23;37;0;-3784;31
+Alkoholunfälle;insgesamt;2015;201504;29;35;2609;-1714;31
+Alkoholunfälle;insgesamt;2015;201505;50;28;7241;7857;33
+Alkoholunfälle;insgesamt;2015;201506;39;31;-22;2581;33
+Alkoholunfälle;insgesamt;2015;201507;49;35;2564;40;34
+Alkoholunfälle;insgesamt;2015;201508;49;32;0;5313;36
+Alkoholunfälle;insgesamt;2015;201509;45;43;-816;465;36
+Alkoholunfälle;insgesamt;2015;201510;25;36;-4444;-3056;35
+Alkoholunfälle;insgesamt;2015;201511;30;42;20;-2857;34
+Alkoholunfälle;insgesamt;2015;201512;27;25;-10;8;34
+Alkoholunfälle;insgesamt;2014;Summe;382;377;;133;
+Alkoholunfälle;insgesamt;2014;201401;21;17;-3438;2353;32
+Alkoholunfälle;insgesamt;2014;201402;17;15;-1905;1333;32
+Alkoholunfälle;insgesamt;2014;201403;37;21;11765;7619;33
+Alkoholunfälle;insgesamt;2014;201404;35;28;-541;25;34
+Alkoholunfälle;insgesamt;2014;201405;28;33;-20;-1515;33
+Alkoholunfälle;insgesamt;2014;201406;31;37;1071;-1622;33
+Alkoholunfälle;insgesamt;2014;201407;35;42;129;-1667;32
+Alkoholunfälle;insgesamt;2014;201408;32;39;-857;-1795;32
+Alkoholunfälle;insgesamt;2014;201409;43;47;3438;-851;31
+Alkoholunfälle;insgesamt;2014;201410;36;31;-1628;1613;32
+Alkoholunfälle;insgesamt;2014;201411;42;35;1667;20;32
+Alkoholunfälle;insgesamt;2014;201412;25;32;-4048;-2188;32
+Alkoholunfälle;insgesamt;2013;Summe;377;440;;-1432;
+Alkoholunfälle;insgesamt;2013;201301;17;21;-3704;-1905;36
+Alkoholunfälle;insgesamt;2013;201302;15;18;-1176;-1667;36
+Alkoholunfälle;insgesamt;2013;201303;21;21;40;0;36
+Alkoholunfälle;insgesamt;2013;201304;28;34;3333;-1765;36
+Alkoholunfälle;insgesamt;2013;201305;33;54;1786;-3889;34
+Alkoholunfälle;insgesamt;2013;201306;37;43;1212;-1395;33
+Alkoholunfälle;insgesamt;2013;201307;42;56;1351;-25;32
+Alkoholunfälle;insgesamt;2013;201308;39;55;-714;-2909;31
+Alkoholunfälle;insgesamt;2013;201309;47;49;2051;-408;31
+Alkoholunfälle;insgesamt;2013;201310;31;32;-3404;-313;31
+Alkoholunfälle;insgesamt;2013;201311;35;30;129;1667;31
+Alkoholunfälle;insgesamt;2013;201312;32;27;-857;1852;31
+Alkoholunfälle;insgesamt;2012;Summe;440;397;;1083;
+Alkoholunfälle;insgesamt;2012;201201;21;25;-4324;-16;33
+Alkoholunfälle;insgesamt;2012;201202;18;25;-1429;-28;32
+Alkoholunfälle;insgesamt;2012;201203;21;22;1667;-455;32
+Alkoholunfälle;insgesamt;2012;201204;34;43;619;-2093;31
+Alkoholunfälle;insgesamt;2012;201205;54;43;5882;2558;32
+Alkoholunfälle;insgesamt;2012;201206;43;27;-2037;5926;34
+Alkoholunfälle;insgesamt;2012;201207;56;39;3023;4359;35
+Alkoholunfälle;insgesamt;2012;201208;55;34;-179;6176;37
+Alkoholunfälle;insgesamt;2012;201209;49;36;-1091;3611;38
+Alkoholunfälle;insgesamt;2012;201210;32;26;-3469;2308;38
+Alkoholunfälle;insgesamt;2012;201211;30;40;-625;-25;38
+Alkoholunfälle;insgesamt;2012;201212;27;37;-10;-2703;37
+Alkoholunfälle;insgesamt;2011;Summe;397;402;;-124;
+Alkoholunfälle;insgesamt;2011;201101;25;19;-385;3158;34
+Alkoholunfälle;insgesamt;2011;201102;25;23;0;87;34
+Alkoholunfälle;insgesamt;2011;201103;22;31;-12;-2903;33
+Alkoholunfälle;insgesamt;2011;201104;43;33;9545;303;34
+Alkoholunfälle;insgesamt;2011;201105;43;34;0;2647;35
+Alkoholunfälle;insgesamt;2011;201106;27;39;-3721;-3077;34
+Alkoholunfälle;insgesamt;2011;201107;39;48;4444;-1875;33
+Alkoholunfälle;insgesamt;2011;201108;34;40;-1282;-15;33
+Alkoholunfälle;insgesamt;2011;201109;36;54;588;-3333;31
+Alkoholunfälle;insgesamt;2011;201110;26;27;-2778;-37;31
+Alkoholunfälle;insgesamt;2011;201111;40;28;5385;4286;32
+Alkoholunfälle;insgesamt;2011;201112;37;26;-75;4231;33
+Alkoholunfälle;insgesamt;2010;Summe;402;430;;-651;
+Alkoholunfälle;insgesamt;2010;201001;19;23;-4412;-1739;36
+Alkoholunfälle;insgesamt;2010;201002;23;32;2105;-2813;35
+Alkoholunfälle;insgesamt;2010;201003;31;14;3478;12143;36
+Alkoholunfälle;insgesamt;2010;201004;33;45;645;-2667;35
+Alkoholunfälle;insgesamt;2010;201005;34;57;303;-4035;33
+Alkoholunfälle;insgesamt;2010;201006;39;31;1471;2581;34
+Alkoholunfälle;insgesamt;2010;201007;48;44;2308;909;34
+Alkoholunfälle;insgesamt;2010;201008;40;35;-1667;1429;35
+Alkoholunfälle;insgesamt;2010;201009;54;49;35;102;35
+Alkoholunfälle;insgesamt;2010;201010;27;35;-50;-2286;34
+Alkoholunfälle;insgesamt;2010;201011;28;31;37;-968;34
+Alkoholunfälle;insgesamt;2010;201012;26;34;-714;-2353;34
+Alkoholunfälle;insgesamt;2009;Summe;430;482;;-1079;
+Alkoholunfälle;insgesamt;2009;200901;23;32;-3429;-2813;39
+Alkoholunfälle;insgesamt;2009;200902;32;30;3913;667;40
+Alkoholunfälle;insgesamt;2009;200903;14;30;-5625;-5333;38
+Alkoholunfälle;insgesamt;2009;200904;45;25;22143;80;40
+Alkoholunfälle;insgesamt;2009;200905;57;57;2667;0;40
+Alkoholunfälle;insgesamt;2009;200906;31;56;-4561;-4464;38
+Alkoholunfälle;insgesamt;2009;200907;44;52;4194;-1538;37
+Alkoholunfälle;insgesamt;2009;200908;35;44;-2045;-2045;36
+Alkoholunfälle;insgesamt;2009;200909;49;49;40;0;36
+Alkoholunfälle;insgesamt;2009;200910;35;45;-2857;-2222;36
+Alkoholunfälle;insgesamt;2009;200911;31;27;-1143;1481;36
+Alkoholunfälle;insgesamt;2009;200912;34;35;968;-286;36
+Alkoholunfälle;insgesamt;2008;Summe;482;560;;-1393;
+Alkoholunfälle;insgesamt;2008;200801;32;36;-1351;-1111;46
+Alkoholunfälle;insgesamt;2008;200802;30;32;-625;-625;46
+Alkoholunfälle;insgesamt;2008;200803;30;38;0;-2105;46
+Alkoholunfälle;insgesamt;2008;200804;25;49;-1667;-4898;44
+Alkoholunfälle;insgesamt;2008;200805;57;63;128;-952;43
+Alkoholunfälle;insgesamt;2008;200806;56;51;-175;98;43
+Alkoholunfälle;insgesamt;2008;200807;52;65;-714;-20;42
+Alkoholunfälle;insgesamt;2008;200808;44;44;-1538;0;42
+Alkoholunfälle;insgesamt;2008;200809;49;54;1136;-926;42
+Alkoholunfälle;insgesamt;2008;200810;45;55;-816;-1818;41
+Alkoholunfälle;insgesamt;2008;200811;27;36;-40;-25;40
+Alkoholunfälle;insgesamt;2008;200812;35;37;2963;-541;40
+Alkoholunfälle;insgesamt;2007;Summe;560;599;;-651;
+Alkoholunfälle;insgesamt;2007;200701;36;44;-3077;-1818;49
+Alkoholunfälle;insgesamt;2007;200702;32;50;-1111;-36;48
+Alkoholunfälle;insgesamt;2007;200703;38;40;1875;-5;48
+Alkoholunfälle;insgesamt;2007;200704;49;40;2895;225;48
+Alkoholunfälle;insgesamt;2007;200705;63;53;2857;1887;49
+Alkoholunfälle;insgesamt;2007;200706;51;51;-1905;0;49
+Alkoholunfälle;insgesamt;2007;200707;65;64;2745;156;49
+Alkoholunfälle;insgesamt;2007;200708;44;48;-3231;-833;49
+Alkoholunfälle;insgesamt;2007;200709;54;64;2273;-1563;48
+Alkoholunfälle;insgesamt;2007;200710;55;45;185;2222;49
+Alkoholunfälle;insgesamt;2007;200711;36;48;-3455;-25;48
+Alkoholunfälle;insgesamt;2007;200712;37;52;278;-2885;47
+Alkoholunfälle;insgesamt;2006;Summe;599;600;;-17;
+Alkoholunfälle;insgesamt;2006;200601;44;48;732;-833;50
+Alkoholunfälle;insgesamt;2006;200602;50;40;1364;25;51
+Alkoholunfälle;insgesamt;2006;200603;40;40;-20;0;51
+Alkoholunfälle;insgesamt;2006;200604;40;40;0;0;51
+Alkoholunfälle;insgesamt;2006;200605;53;48;325;1042;51
+Alkoholunfälle;insgesamt;2006;200606;51;57;-377;-1053;50
+Alkoholunfälle;insgesamt;2006;200607;64;63;2549;159;51
+Alkoholunfälle;insgesamt;2006;200608;48;48;-25;0;51
+Alkoholunfälle;insgesamt;2006;200609;64;76;3333;-1579;50
+Alkoholunfälle;insgesamt;2006;200610;45;57;-2969;-2105;49
+Alkoholunfälle;insgesamt;2006;200611;48;42;667;1429;49
+Alkoholunfälle;insgesamt;2006;200612;52;41;833;2683;50
+Alkoholunfälle;insgesamt;2005;Summe;600;659;;-895;
+Alkoholunfälle;insgesamt;2005;200501;48;42;-769;1429;55
+Alkoholunfälle;insgesamt;2005;200502;40;48;-1667;-1667;55
+Alkoholunfälle;insgesamt;2005;200503;40;44;0;-909;54
+Alkoholunfälle;insgesamt;2005;200504;40;37;0;811;55
+Alkoholunfälle;insgesamt;2005;200505;48;55;20;-1273;54
+Alkoholunfälle;insgesamt;2005;200506;57;58;1875;-172;54
+Alkoholunfälle;insgesamt;2005;200507;63;67;1053;-597;54
+Alkoholunfälle;insgesamt;2005;200508;48;58;-2381;-1724;53
+Alkoholunfälle;insgesamt;2005;200509;76;79;5833;-38;53
+Alkoholunfälle;insgesamt;2005;200510;57;68;-25;-1618;52
+Alkoholunfälle;insgesamt;2005;200511;42;51;-2632;-1765;51
+Alkoholunfälle;insgesamt;2005;200512;41;52;-238;-2115;50
+Alkoholunfälle;insgesamt;2004;Summe;659;730;;-973;
+Alkoholunfälle;insgesamt;2004;200401;42;55;-2759;-2364;60
+Alkoholunfälle;insgesamt;2004;200402;48;44;1429;909;60
+Alkoholunfälle;insgesamt;2004;200403;44;53;-833;-1698;59
+Alkoholunfälle;insgesamt;2004;200404;37;50;-1591;-26;58
+Alkoholunfälle;insgesamt;2004;200405;55;65;4865;-1538;57
+Alkoholunfälle;insgesamt;2004;200406;58;82;545;-2927;55
+Alkoholunfälle;insgesamt;2004;200407;67;76;1552;-1184;55
+Alkoholunfälle;insgesamt;2004;200408;58;66;-1343;-1212;54
+Alkoholunfälle;insgesamt;2004;200409;79;63;3621;254;55
+Alkoholunfälle;insgesamt;2004;200410;68;74;-1392;-811;55
+Alkoholunfälle;insgesamt;2004;200411;51;44;-25;1591;55
+Alkoholunfälle;insgesamt;2004;200412;52;58;196;-1034;55
+Alkoholunfälle;insgesamt;2003;Summe;730;803;;-909;
+Alkoholunfälle;insgesamt;2003;200301;55;44;-127;25;68
+Alkoholunfälle;insgesamt;2003;200302;44;49;-20;-102;67
+Alkoholunfälle;insgesamt;2003;200303;53;61;2045;-1311;67
+Alkoholunfälle;insgesamt;2003;200304;50;65;-566;-2308;66
+Alkoholunfälle;insgesamt;2003;200305;65;58;30;1207;66
+Alkoholunfälle;insgesamt;2003;200306;82;74;2615;1081;67
+Alkoholunfälle;insgesamt;2003;200307;76;84;-732;-952;66
+Alkoholunfälle;insgesamt;2003;200308;66;71;-1316;-704;66
+Alkoholunfälle;insgesamt;2003;200309;63;107;-455;-4112;62
+Alkoholunfälle;insgesamt;2003;200310;74;83;1746;-1084;61
+Alkoholunfälle;insgesamt;2003;200311;44;44;-4054;0;61
+Alkoholunfälle;insgesamt;2003;200312;58;63;3182;-794;61
+Alkoholunfälle;insgesamt;2002;Summe;803;848;;-531;
+Alkoholunfälle;insgesamt;2002;200201;44;66;-3333;-3333;69
+Alkoholunfälle;insgesamt;2002;200202;49;49;1136;0;69
+Alkoholunfälle;insgesamt;2002;200203;61;63;2449;-317;69
+Alkoholunfälle;insgesamt;2002;200204;65;68;656;-441;68
+Alkoholunfälle;insgesamt;2002;200205;58;85;-1077;-3176;66
+Alkoholunfälle;insgesamt;2002;200206;74;68;2759;882;67
+Alkoholunfälle;insgesamt;2002;200207;84;71;1351;1831;68
+Alkoholunfälle;insgesamt;2002;200208;71;60;-1548;1833;69
+Alkoholunfälle;insgesamt;2002;200209;107;107;507;0;69
+Alkoholunfälle;insgesamt;2002;200210;83;77;-2243;779;69
+Alkoholunfälle;insgesamt;2002;200211;44;68;-4699;-3529;67
+Alkoholunfälle;insgesamt;2002;200212;63;66;4318;-455;67
+Alkoholunfälle;insgesamt;2001;Summe;848;934;;-921;
+Alkoholunfälle;insgesamt;2001;200101;66;78;-2235;-1538;77
+Alkoholunfälle;insgesamt;2001;200102;49;53;-2576;-755;77
+Alkoholunfälle;insgesamt;2001;200103;63;73;2857;-137;76
+Alkoholunfälle;insgesamt;2001;200104;68;78;794;-1282;75
+Alkoholunfälle;insgesamt;2001;200105;85;96;25;-1146;74
+Alkoholunfälle;insgesamt;2001;200106;68;57;-20;193;75
+Alkoholunfälle;insgesamt;2001;200107;71;99;441;-2828;73
+Alkoholunfälle;insgesamt;2001;200108;60;77;-1549;-2208;71
+Alkoholunfälle;insgesamt;2001;200109;107;84;7833;2738;73
+Alkoholunfälle;insgesamt;2001;200110;77;83;-2804;-723;73
+Alkoholunfälle;insgesamt;2001;200111;68;71;-1169;-423;72
+Alkoholunfälle;insgesamt;2001;200112;66;85;-294;-2235;71
+Alkoholunfälle;insgesamt;2000;Summe;934;;;;
+Alkoholunfälle;insgesamt;2000;200001;78;;;;78
+Alkoholunfälle;insgesamt;2000;200002;53;;-3205;;66
+Alkoholunfälle;insgesamt;2000;200003;73;;3774;;68
+Alkoholunfälle;insgesamt;2000;200004;78;;685;;71
+Alkoholunfälle;insgesamt;2000;200005;96;;2308;;76
+Alkoholunfälle;insgesamt;2000;200006;57;;-4063;;73
+Alkoholunfälle;insgesamt;2000;200007;99;;7368;;76
+Alkoholunfälle;insgesamt;2000;200008;77;;-2222;;76
+Alkoholunfälle;insgesamt;2000;200009;84;;909;;77
+Alkoholunfälle;insgesamt;2000;200010;83;;-119;;78
+Alkoholunfälle;insgesamt;2000;200011;71;;-1446;;77
+Alkoholunfälle;insgesamt;2000;200012;85;;1972;;78
+Alkoholunfälle;Verletzte und Getötete;2021;202101;;11;;;
+Alkoholunfälle;Verletzte und Getötete;2021;202102;;19;;;
+Alkoholunfälle;Verletzte und Getötete;2021;202103;;13;;;
+Alkoholunfälle;Verletzte und Getötete;2021;202104;;15;;;
+Alkoholunfälle;Verletzte und Getötete;2021;202105;;26;;;
+Alkoholunfälle;Verletzte und Getötete;2021;202106;;30;;;
+Alkoholunfälle;Verletzte und Getötete;2021;202107;;43;;;
+Alkoholunfälle;Verletzte und Getötete;2021;202108;;29;;;
+Alkoholunfälle;Verletzte und Getötete;2021;202109;;24;;;
+Alkoholunfälle;Verletzte und Getötete;2021;202110;;20;;;
+Alkoholunfälle;Verletzte und Getötete;2021;202111;;11;;;
+Alkoholunfälle;Verletzte und Getötete;2021;202112;;9;;;
+Alkoholunfälle;Verletzte und Getötete;2020;Summe;250;227;;1013;
+Alkoholunfälle;Verletzte und Getötete;2020;202001;11;7;-833;5714;19
+Alkoholunfälle;Verletzte und Getötete;2020;202002;19;7;7273;17143;20
+Alkoholunfälle;Verletzte und Getötete;2020;202003;13;22;-3158;-4091;20
+Alkoholunfälle;Verletzte und Getötete;2020;202004;15;18;1538;-1667;19
+Alkoholunfälle;Verletzte und Getötete;2020;202005;26;21;7333;2381;20
+Alkoholunfälle;Verletzte und Getötete;2020;202006;30;24;1538;25;20
+Alkoholunfälle;Verletzte und Getötete;2020;202007;43;34;4333;2647;21
+Alkoholunfälle;Verletzte und Getötete;2020;202008;29;23;-3256;2609;21
+Alkoholunfälle;Verletzte und Getötete;2020;202009;24;20;-1724;20;22
+Alkoholunfälle;Verletzte und Getötete;2020;202010;20;20;-1667;0;22
+Alkoholunfälle;Verletzte und Getötete;2020;202011;11;19;-45;-4211;21
+Alkoholunfälle;Verletzte und Getötete;2020;202012;9;12;-1818;-25;21
+Alkoholunfälle;Verletzte und Getötete;2019;Summe;227;182;;2473;
+Alkoholunfälle;Verletzte und Getötete;2019;201901;7;8;1667;-125;15
+Alkoholunfälle;Verletzte und Getötete;2019;201902;7;13;0;-4615;15
+Alkoholunfälle;Verletzte und Getötete;2019;201903;22;12;21429;8333;15
+Alkoholunfälle;Verletzte und Getötete;2019;201904;18;8;-1818;125;16
+Alkoholunfälle;Verletzte und Getötete;2019;201905;21;23;1667;-87;16
+Alkoholunfälle;Verletzte und Getötete;2019;201906;24;14;1429;7143;17
+Alkoholunfälle;Verletzte und Getötete;2019;201907;34;29;4167;1724;17
+Alkoholunfälle;Verletzte und Getötete;2019;201908;23;18;-3235;2778;18
+Alkoholunfälle;Verletzte und Getötete;2019;201909;20;22;-1304;-909;18
+Alkoholunfälle;Verletzte und Getötete;2019;201910;20;16;0;25;18
+Alkoholunfälle;Verletzte und Getötete;2019;201911;19;13;-5;4615;18
+Alkoholunfälle;Verletzte und Getötete;2019;201912;12;6;-3684;100;19
+Alkoholunfälle;Verletzte und Getötete;2018;Summe;182;176;;341;
+Alkoholunfälle;Verletzte und Getötete;2018;201801;8;4;-5294;100;15
+Alkoholunfälle;Verletzte und Getötete;2018;201802;13;4;625;225;16
+Alkoholunfälle;Verletzte und Getötete;2018;201803;12;15;-769;-20;16
+Alkoholunfälle;Verletzte und Getötete;2018;201804;8;10;-3333;-20;15
+Alkoholunfälle;Verletzte und Getötete;2018;201805;23;16;1875;4375;16
+Alkoholunfälle;Verletzte und Getötete;2018;201806;14;27;-3913;-4815;15
+Alkoholunfälle;Verletzte und Getötete;2018;201807;29;18;10714;6111;16
+Alkoholunfälle;Verletzte und Getötete;2018;201808;18;14;-3793;2857;16
+Alkoholunfälle;Verletzte und Getötete;2018;201809;22;22;2222;0;16
+Alkoholunfälle;Verletzte und Getötete;2018;201810;16;16;-2727;0;16
+Alkoholunfälle;Verletzte und Getötete;2018;201811;13;13;-1875;0;16
+Alkoholunfälle;Verletzte und Getötete;2018;201812;6;17;-5385;-6471;15
+Alkoholunfälle;Verletzte und Getötete;2017;Summe;176;144;;2222;
+Alkoholunfälle;Verletzte und Getötete;2017;201701;4;6;-60;-3333;12
+Alkoholunfälle;Verletzte und Getötete;2017;201702;4;3;0;3333;12
+Alkoholunfälle;Verletzte und Getötete;2017;201703;15;6;275;150;13
+Alkoholunfälle;Verletzte und Getötete;2017;201704;10;8;-3333;25;13
+Alkoholunfälle;Verletzte und Getötete;2017;201705;16;17;60;-588;13
+Alkoholunfälle;Verletzte und Getötete;2017;201706;27;19;6875;4211;13
+Alkoholunfälle;Verletzte und Getötete;2017;201707;18;23;-3333;-2174;13
+Alkoholunfälle;Verletzte und Getötete;2017;201708;14;12;-2222;1667;13
+Alkoholunfälle;Verletzte und Getötete;2017;201709;22;22;5714;0;13
+Alkoholunfälle;Verletzte und Getötete;2017;201710;16;11;-2727;4545;14
+Alkoholunfälle;Verletzte und Getötete;2017;201711;13;7;-1875;8571;14
+Alkoholunfälle;Verletzte und Getötete;2017;201712;17;10;3077;70;15
+Alkoholunfälle;Verletzte und Getötete;2016;Summe;144;225;;-36;
+Alkoholunfälle;Verletzte und Getötete;2016;201601;6;21;0;-7143;18
+Alkoholunfälle;Verletzte und Getötete;2016;201602;3;3;-50;0;18
+Alkoholunfälle;Verletzte und Getötete;2016;201603;6;9;100;-3333;17
+Alkoholunfälle;Verletzte und Getötete;2016;201604;8;23;3333;-6522;16
+Alkoholunfälle;Verletzte und Getötete;2016;201605;17;30;1125;-4333;15
+Alkoholunfälle;Verletzte und Getötete;2016;201606;19;19;1176;0;15
+Alkoholunfälle;Verletzte und Getötete;2016;201607;23;37;2105;-3784;14
+Alkoholunfälle;Verletzte und Getötete;2016;201608;12;29;-4783;-5862;12
+Alkoholunfälle;Verletzte und Getötete;2016;201609;22;25;8333;-12;12
+Alkoholunfälle;Verletzte und Getötete;2016;201610;11;12;-50;-833;12
+Alkoholunfälle;Verletzte und Getötete;2016;201611;7;11;-3636;-3636;12
+Alkoholunfälle;Verletzte und Getötete;2016;201612;10;6;4286;6667;12
+Alkoholunfälle;Verletzte und Getötete;2015;Summe;225;167;;3473;
+Alkoholunfälle;Verletzte und Getötete;2015;201501;21;4;600;425;15
+Alkoholunfälle;Verletzte und Getötete;2015;201502;3;7;-8571;-5714;15
+Alkoholunfälle;Verletzte und Getötete;2015;201503;9;16;200;-4375;14
+Alkoholunfälle;Verletzte und Getötete;2015;201504;23;15;15556;5333;15
+Alkoholunfälle;Verletzte und Getötete;2015;201505;30;19;3043;5789;16
+Alkoholunfälle;Verletzte und Getötete;2015;201506;19;16;-3667;1875;16
+Alkoholunfälle;Verletzte und Getötete;2015;201507;37;21;9474;7619;18
+Alkoholunfälle;Verletzte und Getötete;2015;201508;29;13;-2162;12308;19
+Alkoholunfälle;Verletzte und Getötete;2015;201509;25;18;-1379;3889;20
+Alkoholunfälle;Verletzte und Getötete;2015;201510;12;21;-52;-4286;19
+Alkoholunfälle;Verletzte und Getötete;2015;201511;11;14;-833;-2143;19
+Alkoholunfälle;Verletzte und Getötete;2015;201512;6;3;-4545;100;19
+Alkoholunfälle;Verletzte und Getötete;2014;Summe;167;153;;915;
+Alkoholunfälle;Verletzte und Getötete;2014;201401;4;2;-60;100;13
+Alkoholunfälle;Verletzte und Getötete;2014;201402;7;0;75;;14
+Alkoholunfälle;Verletzte und Getötete;2014;201403;16;8;12857;100;14
+Alkoholunfälle;Verletzte und Getötete;2014;201404;15;5;-625;200;15
+Alkoholunfälle;Verletzte und Getötete;2014;201405;19;21;2667;-952;15
+Alkoholunfälle;Verletzte und Getötete;2014;201406;16;20;-1579;-20;15
+Alkoholunfälle;Verletzte und Getötete;2014;201407;21;24;3125;-125;14
+Alkoholunfälle;Verletzte und Getötete;2014;201408;13;22;-381;-4091;14
+Alkoholunfälle;Verletzte und Getötete;2014;201409;18;17;3846;588;14
+Alkoholunfälle;Verletzte und Getötete;2014;201410;21;12;1667;75;14
+Alkoholunfälle;Verletzte und Getötete;2014;201411;14;12;-3333;1667;15
+Alkoholunfälle;Verletzte und Getötete;2014;201412;3;10;-7857;-70;14
+Alkoholunfälle;Verletzte und Getötete;2013;Summe;153;223;;-3139;
+Alkoholunfälle;Verletzte und Getötete;2013;201301;2;11;-8182;-8182;18
+Alkoholunfälle;Verletzte und Getötete;2013;201302;0;5;-100;-100;17
+Alkoholunfälle;Verletzte und Getötete;2013;201303;8;5;;60;18
+Alkoholunfälle;Verletzte und Getötete;2013;201304;5;22;-375;-7727;16
+Alkoholunfälle;Verletzte und Getötete;2013;201305;21;33;320;-3636;15
+Alkoholunfälle;Verletzte und Getötete;2013;201306;20;35;-476;-4286;14
+Alkoholunfälle;Verletzte und Getötete;2013;201307;24;30;20;-20;14
+Alkoholunfälle;Verletzte und Getötete;2013;201308;22;31;-833;-2903;13
+Alkoholunfälle;Verletzte und Getötete;2013;201309;17;24;-2273;-2917;12
+Alkoholunfälle;Verletzte und Getötete;2013;201310;12;6;-2941;100;13
+Alkoholunfälle;Verletzte und Getötete;2013;201311;12;10;0;20;13
+Alkoholunfälle;Verletzte und Getötete;2013;201312;10;11;-1667;-909;13
+Alkoholunfälle;Verletzte und Getötete;2012;Summe;223;198;;1263;
+Alkoholunfälle;Verletzte und Getötete;2012;201201;11;16;8333;-3125;16
+Alkoholunfälle;Verletzte und Getötete;2012;201202;5;7;-5455;-2857;16
+Alkoholunfälle;Verletzte und Getötete;2012;201203;5;9;0;-4444;16
+Alkoholunfälle;Verletzte und Getötete;2012;201204;22;27;340;-1852;15
+Alkoholunfälle;Verletzte und Getötete;2012;201205;33;20;50;65;16
+Alkoholunfälle;Verletzte und Getötete;2012;201206;35;21;606;6667;17
+Alkoholunfälle;Verletzte und Getötete;2012;201207;30;27;-1429;1111;18
+Alkoholunfälle;Verletzte und Getötete;2012;201208;31;17;333;8235;19
+Alkoholunfälle;Verletzte und Getötete;2012;201209;24;22;-2258;909;19
+Alkoholunfälle;Verletzte und Getötete;2012;201210;6;10;-75;-40;19
+Alkoholunfälle;Verletzte und Getötete;2012;201211;10;16;6667;-375;18
+Alkoholunfälle;Verletzte und Getötete;2012;201212;11;6;10;8333;19
+Alkoholunfälle;Verletzte und Getötete;2011;Summe;198;201;;-149;
+Alkoholunfälle;Verletzte und Getötete;2011;201101;16;7;3333;12857;18
+Alkoholunfälle;Verletzte und Getötete;2011;201102;7;10;-5625;-30;17
+Alkoholunfälle;Verletzte und Getötete;2011;201103;9;12;2857;-25;17
+Alkoholunfälle;Verletzte und Getötete;2011;201104;27;25;200;8;17
+Alkoholunfälle;Verletzte und Getötete;2011;201105;20;15;-2593;3333;18
+Alkoholunfälle;Verletzte und Getötete;2011;201106;21;20;5;5;18
+Alkoholunfälle;Verletzte und Getötete;2011;201107;27;29;2857;-69;18
+Alkoholunfälle;Verletzte und Getötete;2011;201108;17;25;-3704;-32;17
+Alkoholunfälle;Verletzte und Getötete;2011;201109;22;26;2941;-1538;17
+Alkoholunfälle;Verletzte und Getötete;2011;201110;10;13;-5455;-2308;16
+Alkoholunfälle;Verletzte und Getötete;2011;201111;16;7;60;12857;17
+Alkoholunfälle;Verletzte und Getötete;2011;201112;6;12;-625;-50;17
+Alkoholunfälle;Verletzte und Getötete;2010;Summe;201;213;;-563;
+Alkoholunfälle;Verletzte und Getötete;2010;201001;7;7;-50;0;18
+Alkoholunfälle;Verletzte und Getötete;2010;201002;10;12;4286;-1667;18
+Alkoholunfälle;Verletzte und Getötete;2010;201003;12;5;20;140;18
+Alkoholunfälle;Verletzte und Getötete;2010;201004;25;31;10833;-1935;18
+Alkoholunfälle;Verletzte und Getötete;2010;201005;15;34;-40;-5588;16
+Alkoholunfälle;Verletzte und Getötete;2010;201006;20;19;3333;526;16
+Alkoholunfälle;Verletzte und Getötete;2010;201007;29;27;45;741;16
+Alkoholunfälle;Verletzte und Getötete;2010;201008;25;26;-1379;-385;16
+Alkoholunfälle;Verletzte und Getötete;2010;201009;26;18;4;4444;17
+Alkoholunfälle;Verletzte und Getötete;2010;201010;13;15;-50;-1333;17
+Alkoholunfälle;Verletzte und Getötete;2010;201011;7;5;-4615;40;17
+Alkoholunfälle;Verletzte und Getötete;2010;201012;12;14;7143;-1429;17
+Alkoholunfälle;Verletzte und Getötete;2009;Summe;213;240;;-1125;
+Alkoholunfälle;Verletzte und Getötete;2009;200901;7;8;-65;-125;20
+Alkoholunfälle;Verletzte und Getötete;2009;200902;12;16;7143;-25;20
+Alkoholunfälle;Verletzte und Getötete;2009;200903;5;9;-5833;-4444;19
+Alkoholunfälle;Verletzte und Getötete;2009;200904;31;10;520;210;21
+Alkoholunfälle;Verletzte und Getötete;2009;200905;34;37;968;-811;21
+Alkoholunfälle;Verletzte und Getötete;2009;200906;19;32;-4412;-4063;20
+Alkoholunfälle;Verletzte und Getötete;2009;200907;27;24;4211;125;20
+Alkoholunfälle;Verletzte und Getötete;2009;200908;26;23;-37;1304;20
+Alkoholunfälle;Verletzte und Getötete;2009;200909;18;28;-3077;-3571;19
+Alkoholunfälle;Verletzte und Getötete;2009;200910;15;19;-1667;-2105;19
+Alkoholunfälle;Verletzte und Getötete;2009;200911;5;14;-6667;-6429;18
+Alkoholunfälle;Verletzte und Getötete;2009;200912;14;20;180;-30;18
+Alkoholunfälle;Verletzte und Getötete;2008;Summe;240;281;;-1459;
+Alkoholunfälle;Verletzte und Getötete;2008;200801;8;13;-60;-3846;23
+Alkoholunfälle;Verletzte und Getötete;2008;200802;16;15;100;667;23
+Alkoholunfälle;Verletzte und Getötete;2008;200803;9;14;-4375;-3571;23
+Alkoholunfälle;Verletzte und Getötete;2008;200804;10;27;1111;-6296;21
+Alkoholunfälle;Verletzte und Getötete;2008;200805;37;39;270;-513;21
+Alkoholunfälle;Verletzte und Getötete;2008;200806;32;27;-1351;1852;22
+Alkoholunfälle;Verletzte und Getötete;2008;200807;24;38;-25;-3684;20
+Alkoholunfälle;Verletzte und Getötete;2008;200808;23;20;-417;15;21
+Alkoholunfälle;Verletzte und Getötete;2008;200809;28;24;2174;1667;21
+Alkoholunfälle;Verletzte und Getötete;2008;200810;19;18;-3214;556;21
+Alkoholunfälle;Verletzte und Getötete;2008;200811;14;26;-2632;-4615;20
+Alkoholunfälle;Verletzte und Getötete;2008;200812;20;20;4286;0;20
+Alkoholunfälle;Verletzte und Getötete;2007;Summe;281;286;;-175;
+Alkoholunfälle;Verletzte und Getötete;2007;200701;13;21;-381;-381;23
+Alkoholunfälle;Verletzte und Getötete;2007;200702;15;21;1538;-2857;23
+Alkoholunfälle;Verletzte und Getötete;2007;200703;14;14;-667;0;23
+Alkoholunfälle;Verletzte und Getötete;2007;200704;27;16;9286;6875;24
+Alkoholunfälle;Verletzte und Getötete;2007;200705;39;28;4444;3929;25
+Alkoholunfälle;Verletzte und Getötete;2007;200706;27;22;-3077;2273;25
+Alkoholunfälle;Verletzte und Getötete;2007;200707;38;37;4074;27;25
+Alkoholunfälle;Verletzte und Getötete;2007;200708;20;25;-4737;-20;25
+Alkoholunfälle;Verletzte und Getötete;2007;200709;24;35;20;-3143;24
+Alkoholunfälle;Verletzte und Getötete;2007;200710;18;24;-25;-25;23
+Alkoholunfälle;Verletzte und Getötete;2007;200711;26;22;4444;1818;24
+Alkoholunfälle;Verletzte und Getötete;2007;200712;20;21;-2308;-476;23
+Alkoholunfälle;Verletzte und Getötete;2006;Summe;286;281;;178;
+Alkoholunfälle;Verletzte und Getötete;2006;200601;21;13;75;6154;24
+Alkoholunfälle;Verletzte und Getötete;2006;200602;21;14;0;50;25
+Alkoholunfälle;Verletzte und Getötete;2006;200603;14;13;-3333;769;25
+Alkoholunfälle;Verletzte und Getötete;2006;200604;16;19;1429;-1579;25
+Alkoholunfälle;Verletzte und Getötete;2006;200605;28;21;75;3333;25
+Alkoholunfälle;Verletzte und Getötete;2006;200606;22;31;-2143;-2903;24
+Alkoholunfälle;Verletzte und Getötete;2006;200607;37;26;6818;4231;25
+Alkoholunfälle;Verletzte und Getötete;2006;200608;25;33;-3243;-2424;25
+Alkoholunfälle;Verletzte und Getötete;2006;200609;35;50;40;-30;23
+Alkoholunfälle;Verletzte und Getötete;2006;200610;24;35;-3143;-3143;22
+Alkoholunfälle;Verletzte und Getötete;2006;200611;22;14;-833;5714;23
+Alkoholunfälle;Verletzte und Getötete;2006;200612;21;12;-455;75;24
+Alkoholunfälle;Verletzte und Getötete;2005;Summe;281;304;;-757;
+Alkoholunfälle;Verletzte und Getötete;2005;200501;13;10;833;30;26
+Alkoholunfälle;Verletzte und Getötete;2005;200502;14;21;769;-3333;25
+Alkoholunfälle;Verletzte und Getötete;2005;200503;13;18;-714;-2778;25
+Alkoholunfälle;Verletzte und Getötete;2005;200504;19;10;4615;90;25
+Alkoholunfälle;Verletzte und Getötete;2005;200505;21;30;1053;-30;25
+Alkoholunfälle;Verletzte und Getötete;2005;200506;31;25;4762;24;25
+Alkoholunfälle;Verletzte und Getötete;2005;200507;26;44;-1613;-4091;24
+Alkoholunfälle;Verletzte und Getötete;2005;200508;33;47;2692;-2979;22
+Alkoholunfälle;Verletzte und Getötete;2005;200509;50;41;5152;2195;23
+Alkoholunfälle;Verletzte und Getötete;2005;200510;35;26;-30;3462;24
+Alkoholunfälle;Verletzte und Getötete;2005;200511;14;20;-60;-30;23
+Alkoholunfälle;Verletzte und Getötete;2005;200512;12;12;-1429;0;23
+Alkoholunfälle;Verletzte und Getötete;2004;Summe;304;319;;-47;
+Alkoholunfälle;Verletzte und Getötete;2004;200401;10;18;-6296;-4444;26
+Alkoholunfälle;Verletzte und Getötete;2004;200402;21;16;110;3125;26
+Alkoholunfälle;Verletzte und Getötete;2004;200403;18;17;-1429;588;26
+Alkoholunfälle;Verletzte und Getötete;2004;200404;10;25;-4444;-60;25
+Alkoholunfälle;Verletzte und Getötete;2004;200405;30;26;200;1538;26
+Alkoholunfälle;Verletzte und Getötete;2004;200406;25;41;-1667;-3902;24
+Alkoholunfälle;Verletzte und Getötete;2004;200407;44;35;76;2571;25
+Alkoholunfälle;Verletzte und Getötete;2004;200408;47;40;682;175;26
+Alkoholunfälle;Verletzte und Getötete;2004;200409;41;26;-1277;5769;27
+Alkoholunfälle;Verletzte und Getötete;2004;200410;26;17;-3659;5294;28
+Alkoholunfälle;Verletzte und Getötete;2004;200411;20;31;-2308;-3548;27
+Alkoholunfälle;Verletzte und Getötete;2004;200412;12;27;-40;-5556;25
+Alkoholunfälle;Verletzte und Getötete;2003;Summe;319;379;;-1583;
+Alkoholunfälle;Verletzte und Getötete;2003;200301;18;24;-3333;-25;31
+Alkoholunfälle;Verletzte und Getötete;2003;200302;16;22;-1111;-2727;31
+Alkoholunfälle;Verletzte und Getötete;2003;200303;17;21;625;-1905;30
+Alkoholunfälle;Verletzte und Getötete;2003;200304;25;28;4706;-1071;30
+Alkoholunfälle;Verletzte und Getötete;2003;200305;26;32;4;-1875;30
+Alkoholunfälle;Verletzte und Getötete;2003;200306;41;42;5769;-238;29
+Alkoholunfälle;Verletzte und Getötete;2003;200307;35;40;-1463;-125;29
+Alkoholunfälle;Verletzte und Getötete;2003;200308;40;29;1429;3793;30
+Alkoholunfälle;Verletzte und Getötete;2003;200309;26;51;-35;-4902;28
+Alkoholunfälle;Verletzte und Getötete;2003;200310;17;53;-3462;-6792;25
+Alkoholunfälle;Verletzte und Getötete;2003;200311;31;10;8235;210;27
+Alkoholunfälle;Verletzte und Getötete;2003;200312;27;27;-129;0;27
+Alkoholunfälle;Verletzte und Getötete;2002;Summe;379;391;;-307;
+Alkoholunfälle;Verletzte und Getötete;2002;200201;24;36;435;-3333;32
+Alkoholunfälle;Verletzte und Getötete;2002;200202;22;20;-833;10;32
+Alkoholunfälle;Verletzte und Getötete;2002;200203;21;36;-455;-4167;31
+Alkoholunfälle;Verletzte und Getötete;2002;200204;28;32;3333;-125;30
+Alkoholunfälle;Verletzte und Getötete;2002;200205;32;32;1429;0;30
+Alkoholunfälle;Verletzte und Getötete;2002;200206;42;46;3125;-87;30
+Alkoholunfälle;Verletzte und Getötete;2002;200207;40;35;-476;1429;30
+Alkoholunfälle;Verletzte und Getötete;2002;200208;29;21;-275;381;31
+Alkoholunfälle;Verletzte und Getötete;2002;200209;51;48;7586;625;31
+Alkoholunfälle;Verletzte und Getötete;2002;200210;53;37;392;4324;33
+Alkoholunfälle;Verletzte und Getötete;2002;200211;10;25;-8113;-60;31
+Alkoholunfälle;Verletzte und Getötete;2002;200212;27;23;170;1739;32
+Alkoholunfälle;Verletzte und Getötete;2001;Summe;391;376;;399;
+Alkoholunfälle;Verletzte und Getötete;2001;200101;36;37;1613;-27;31
+Alkoholunfälle;Verletzte und Getötete;2001;200102;20;19;-4444;526;31
+Alkoholunfälle;Verletzte und Getötete;2001;200103;36;18;80;100;33
+Alkoholunfälle;Verletzte und Getötete;2001;200104;32;26;-1111;2308;33
+Alkoholunfälle;Verletzte und Getötete;2001;200105;32;44;0;-2727;32
+Alkoholunfälle;Verletzte und Getötete;2001;200106;46;32;4375;4375;34
+Alkoholunfälle;Verletzte und Getötete;2001;200107;35;37;-2391;-541;33
+Alkoholunfälle;Verletzte und Getötete;2001;200108;21;32;-40;-3438;32
+Alkoholunfälle;Verletzte und Getötete;2001;200109;48;45;12857;667;33
+Alkoholunfälle;Verletzte und Getötete;2001;200110;37;31;-2292;1935;33
+Alkoholunfälle;Verletzte und Getötete;2001;200111;25;24;-3243;417;33
+Alkoholunfälle;Verletzte und Getötete;2001;200112;23;31;-8;-2581;33
+Alkoholunfälle;Verletzte und Getötete;2000;Summe;376;;;;
+Alkoholunfälle;Verletzte und Getötete;2000;200001;37;;;;37
+Alkoholunfälle;Verletzte und Getötete;2000;200002;19;;-4865;;28
+Alkoholunfälle;Verletzte und Getötete;2000;200003;18;;-526;;25
+Alkoholunfälle;Verletzte und Getötete;2000;200004;26;;4444;;25
+Alkoholunfälle;Verletzte und Getötete;2000;200005;44;;6923;;29
+Alkoholunfälle;Verletzte und Getötete;2000;200006;32;;-2727;;29
+Alkoholunfälle;Verletzte und Getötete;2000;200007;37;;1563;;30
+Alkoholunfälle;Verletzte und Getötete;2000;200008;32;;-1351;;31
+Alkoholunfälle;Verletzte und Getötete;2000;200009;45;;4063;;32
+Alkoholunfälle;Verletzte und Getötete;2000;200010;31;;-3111;;32
+Alkoholunfälle;Verletzte und Getötete;2000;200011;24;;-2258;;31
+Alkoholunfälle;Verletzte und Getötete;2000;200012;31;;2917;;31
+Fluchtunfälle;insgesamt;2021;202101;;791;;;
+Fluchtunfälle;insgesamt;2021;202102;;870;;;
+Fluchtunfälle;insgesamt;2021;202103;;744;;;
+Fluchtunfälle;insgesamt;2021;202104;;607;;;
+Fluchtunfälle;insgesamt;2021;202105;;859;;;
+Fluchtunfälle;insgesamt;2021;202106;;905;;;
+Fluchtunfälle;insgesamt;2021;202107;;1010;;;
+Fluchtunfälle;insgesamt;2021;202108;;735;;;
+Fluchtunfälle;insgesamt;2021;202109;;948;;;
+Fluchtunfälle;insgesamt;2021;202110;;997;;;
+Fluchtunfälle;insgesamt;2021;202111;;864;;;
+Fluchtunfälle;insgesamt;2021;202112;;694;;;
+Fluchtunfälle;insgesamt;2020;Summe;10024;11773;;-1486;
+Fluchtunfälle;insgesamt;2020;202001;791;927;-1449;-1467;970
+Fluchtunfälle;insgesamt;2020;202002;870;883;999;-147;969
+Fluchtunfälle;insgesamt;2020;202003;744;1005;-1448;-2597;947
+Fluchtunfälle;insgesamt;2020;202004;607;967;-1841;-3723;917
+Fluchtunfälle;insgesamt;2020;202005;859;1014;4152;-1529;904
+Fluchtunfälle;insgesamt;2020;202006;905;994;536;-895;897
+Fluchtunfälle;insgesamt;2020;202007;1010;1187;116;-1491;882
+Fluchtunfälle;insgesamt;2020;202008;735;820;-2723;-1037;875
+Fluchtunfälle;insgesamt;2020;202009;948;996;2898;-482;871
+Fluchtunfälle;insgesamt;2020;202010;997;1088;517;-836;863
+Fluchtunfälle;insgesamt;2020;202011;864;967;-1334;-1065;855
+Fluchtunfälle;insgesamt;2020;202012;694;925;-1968;-2497;835
+Fluchtunfälle;insgesamt;2019;Summe;11773;11648;;107;
+Fluchtunfälle;insgesamt;2019;201901;927;860;3;779;976
+Fluchtunfälle;insgesamt;2019;201902;883;774;-475;1408;985
+Fluchtunfälle;insgesamt;2019;201903;1005;954;1382;535;990
+Fluchtunfälle;insgesamt;2019;201904;967;1010;-378;-426;986
+Fluchtunfälle;insgesamt;2019;201905;1014;994;486;201;988
+Fluchtunfälle;insgesamt;2019;201906;994;1034;-197;-387;984
+Fluchtunfälle;insgesamt;2019;201907;1187;1151;1942;313;987
+Fluchtunfälle;insgesamt;2019;201908;820;813;-3092;86;988
+Fluchtunfälle;insgesamt;2019;201909;996;1102;2146;-962;979
+Fluchtunfälle;insgesamt;2019;201910;1088;1127;924;-346;976
+Fluchtunfälle;insgesamt;2019;201911;967;929;-1112;409;979
+Fluchtunfälle;insgesamt;2019;201912;925;900;-434;278;981
+Fluchtunfälle;insgesamt;2018;Summe;11648;11263;;342;
+Fluchtunfälle;insgesamt;2018;201801;860;690;-149;2464;953
+Fluchtunfälle;insgesamt;2018;201802;774;846;-10;-851;947
+Fluchtunfälle;insgesamt;2018;201803;954;1060;2326;-10;938
+Fluchtunfälle;insgesamt;2018;201804;1010;895;587;1285;948
+Fluchtunfälle;insgesamt;2018;201805;994;1070;-158;-71;941
+Fluchtunfälle;insgesamt;2018;201806;1034;948;402;907;948
+Fluchtunfälle;insgesamt;2018;201807;1151;1064;1132;818;956
+Fluchtunfälle;insgesamt;2018;201808;813;831;-2937;-217;954
+Fluchtunfälle;insgesamt;2018;201809;1102;1009;3555;922;962
+Fluchtunfälle;insgesamt;2018;201810;1127;1052;227;713;968
+Fluchtunfälle;insgesamt;2018;201811;929;925;-1757;43;968
+Fluchtunfälle;insgesamt;2018;201812;900;873;-312;309;971
+Fluchtunfälle;insgesamt;2017;Summe;11263;11179;;75;
+Fluchtunfälle;insgesamt;2017;201701;690;777;-2069;-112;924
+Fluchtunfälle;insgesamt;2017;201702;846;775;2261;916;930
+Fluchtunfälle;insgesamt;2017;201703;1060;898;253;1804;944
+Fluchtunfälle;insgesamt;2017;201704;895;998;-1557;-1032;935
+Fluchtunfälle;insgesamt;2017;201705;1070;850;1955;2588;954
+Fluchtunfälle;insgesamt;2017;201706;948;1018;-114;-688;948
+Fluchtunfälle;insgesamt;2017;201707;1064;1095;1224;-283;945
+Fluchtunfälle;insgesamt;2017;201708;831;958;-219;-1326;935
+Fluchtunfälle;insgesamt;2017;201709;1009;958;2142;532;939
+Fluchtunfälle;insgesamt;2017;201710;1052;1022;426;294;941
+Fluchtunfälle;insgesamt;2017;201711;925;960;-1207;-365;938
+Fluchtunfälle;insgesamt;2017;201712;873;870;-562;34;939
+Fluchtunfälle;insgesamt;2016;Summe;11179;11358;;-158;
+Fluchtunfälle;insgesamt;2016;201601;777;781;-1821;-51;946
+Fluchtunfälle;insgesamt;2016;201602;775;713;-26;87;951
+Fluchtunfälle;insgesamt;2016;201603;898;908;1587;-11;951
+Fluchtunfälle;insgesamt;2016;201604;998;966;1114;331;953
+Fluchtunfälle;insgesamt;2016;201605;850;940;-1483;-957;946
+Fluchtunfälle;insgesamt;2016;201606;1018;952;1976;693;951
+Fluchtunfälle;insgesamt;2016;201607;1095;1176;756;-689;944
+Fluchtunfälle;insgesamt;2016;201608;958;864;-1251;1088;952
+Fluchtunfälle;insgesamt;2016;201609;958;1007;0;-487;948
+Fluchtunfälle;insgesamt;2016;201610;1022;1110;668;-793;941
+Fluchtunfälle;insgesamt;2016;201611;960;991;-607;-313;938
+Fluchtunfälle;insgesamt;2016;201612;870;950;-938;-842;932
+Fluchtunfälle;insgesamt;2015;Summe;11358;10846;;472;
+Fluchtunfälle;insgesamt;2015;201501;781;778;-59;39;904
+Fluchtunfälle;insgesamt;2015;201502;713;742;-871;-391;902
+Fluchtunfälle;insgesamt;2015;201503;908;993;2735;-856;895
+Fluchtunfälle;insgesamt;2015;201504;966;946;639;211;896
+Fluchtunfälle;insgesamt;2015;201505;940;925;-269;162;898
+Fluchtunfälle;insgesamt;2015;201506;952;880;128;818;904
+Fluchtunfälle;insgesamt;2015;201507;1176;1029;2353;1429;916
+Fluchtunfälle;insgesamt;2015;201508;864;802;-2653;773;921
+Fluchtunfälle;insgesamt;2015;201509;1007;936;1655;759;927
+Fluchtunfälle;insgesamt;2015;201510;1110;1042;1023;653;933
+Fluchtunfälle;insgesamt;2015;201511;991;943;-1072;509;937
+Fluchtunfälle;insgesamt;2015;201512;950;830;-414;1446;947
+Fluchtunfälle;insgesamt;2014;Summe;10846;11186;;-304;
+Fluchtunfälle;insgesamt;2014;201401;778;796;-604;-226;931
+Fluchtunfälle;insgesamt;2014;201402;742;773;-463;-401;928
+Fluchtunfälle;insgesamt;2014;201403;993;906;3383;96;935
+Fluchtunfälle;insgesamt;2014;201404;946;1038;-473;-886;928
+Fluchtunfälle;insgesamt;2014;201405;925;848;-222;908;934
+Fluchtunfälle;insgesamt;2014;201406;880;1055;-486;-1659;920
+Fluchtunfälle;insgesamt;2014;201407;1029;1138;1693;-958;910
+Fluchtunfälle;insgesamt;2014;201408;802;791;-2206;139;911
+Fluchtunfälle;insgesamt;2014;201409;936;1000;1671;-64;906
+Fluchtunfälle;insgesamt;2014;201410;1042;1074;1132;-298;903
+Fluchtunfälle;insgesamt;2014;201411;943;939;-95;43;904
+Fluchtunfälle;insgesamt;2014;201412;830;828;-1198;24;904
+Fluchtunfälle;insgesamt;2013;Summe;11186;11105;;73;
+Fluchtunfälle;insgesamt;2013;201301;796;713;-173;1164;932
+Fluchtunfälle;insgesamt;2013;201302;773;714;-289;826;937
+Fluchtunfälle;insgesamt;2013;201303;906;946;1721;-423;934
+Fluchtunfälle;insgesamt;2013;201304;1038;919;1457;1295;944
+Fluchtunfälle;insgesamt;2013;201305;848;1035;-183;-1807;928
+Fluchtunfälle;insgesamt;2013;201306;1055;1041;2441;134;929
+Fluchtunfälle;insgesamt;2013;201307;1138;1045;787;89;937
+Fluchtunfälle;insgesamt;2013;201308;791;887;-3049;-1082;929
+Fluchtunfälle;insgesamt;2013;201309;1000;921;2642;858;936
+Fluchtunfälle;insgesamt;2013;201310;1074;1090;74;-147;934
+Fluchtunfälle;insgesamt;2013;201311;939;984;-1257;-457;931
+Fluchtunfälle;insgesamt;2013;201312;828;810;-1182;222;932
+Fluchtunfälle;insgesamt;2012;Summe;11105;10258;;826;
+Fluchtunfälle;insgesamt;2012;201201;713;726;-143;-179;854
+Fluchtunfälle;insgesamt;2012;201202;714;760;14;-605;850
+Fluchtunfälle;insgesamt;2012;201203;946;883;3249;713;855
+Fluchtunfälle;insgesamt;2012;201204;919;835;-285;1006;862
+Fluchtunfälle;insgesamt;2012;201205;1035;1034;1262;1;862
+Fluchtunfälle;insgesamt;2012;201206;1041;783;58;3295;884
+Fluchtunfälle;insgesamt;2012;201207;1045;951;38;988;892
+Fluchtunfälle;insgesamt;2012;201208;887;790;-1512;1228;900
+Fluchtunfälle;insgesamt;2012;201209;921;906;383;166;901
+Fluchtunfälle;insgesamt;2012;201210;1090;916;1835;19;915
+Fluchtunfälle;insgesamt;2012;201211;984;842;-972;1686;927
+Fluchtunfälle;insgesamt;2012;201212;810;832;-1768;-264;925
+Fluchtunfälle;insgesamt;2011;Summe;10258;9899;;363;
+Fluchtunfälle;insgesamt;2011;201101;726;613;-1568;1843;834
+Fluchtunfälle;insgesamt;2011;201102;760;683;468;1127;841
+Fluchtunfälle;insgesamt;2011;201103;883;829;1618;651;845
+Fluchtunfälle;insgesamt;2011;201104;835;938;-544;-1098;837
+Fluchtunfälle;insgesamt;2011;201105;1034;743;2383;3917;861
+Fluchtunfälle;insgesamt;2011;201106;783;814;-2427;-381;858
+Fluchtunfälle;insgesamt;2011;201107;951;932;2146;204;860
+Fluchtunfälle;insgesamt;2011;201108;790;794;-1693;-5;860
+Fluchtunfälle;insgesamt;2011;201109;906;955;1468;-513;856
+Fluchtunfälle;insgesamt;2011;201110;916;910;11;66;856
+Fluchtunfälle;insgesamt;2011;201111;842;827;-808;181;857
+Fluchtunfälle;insgesamt;2011;201112;832;861;-119;-337;855
+Fluchtunfälle;insgesamt;2010;Summe;9899;9267;;682;
+Fluchtunfälle;insgesamt;2010;201001;613;512;-1794;1973;781
+Fluchtunfälle;insgesamt;2010;201002;683;802;1142;-1484;771
+Fluchtunfälle;insgesamt;2010;201003;829;607;2138;3657;789
+Fluchtunfälle;insgesamt;2010;201004;938;776;1315;2088;803
+Fluchtunfälle;insgesamt;2010;201005;743;768;-2079;-326;801
+Fluchtunfälle;insgesamt;2010;201006;814;678;956;2006;812
+Fluchtunfälle;insgesamt;2010;201007;932;991;145;-595;807
+Fluchtunfälle;insgesamt;2010;201008;794;752;-1481;559;811
+Fluchtunfälle;insgesamt;2010;201009;955;846;2028;1288;820
+Fluchtunfälle;insgesamt;2010;201010;910;953;-471;-451;816
+Fluchtunfälle;insgesamt;2010;201011;827;835;-912;-96;815
+Fluchtunfälle;insgesamt;2010;201012;861;747;411;1526;825
+Fluchtunfälle;insgesamt;2009;Summe;9267;9345;;-83;
+Fluchtunfälle;insgesamt;2009;200901;512;727;-2207;-2957;761
+Fluchtunfälle;insgesamt;2009;200902;802;793;5664;113;762
+Fluchtunfälle;insgesamt;2009;200903;607;763;-2431;-2045;749
+Fluchtunfälle;insgesamt;2009;200904;776;837;2784;-729;744
+Fluchtunfälle;insgesamt;2009;200905;768;871;-103;-1183;735
+Fluchtunfälle;insgesamt;2009;200906;678;859;-1172;-2107;720
+Fluchtunfälle;insgesamt;2009;200907;991;832;4617;1911;733
+Fluchtunfälle;insgesamt;2009;200908;752;760;-2412;-105;732
+Fluchtunfälle;insgesamt;2009;200909;846;747;125;1325;741
+Fluchtunfälle;insgesamt;2009;200910;953;874;1265;904;747
+Fluchtunfälle;insgesamt;2009;200911;835;625;-1238;336;765
+Fluchtunfälle;insgesamt;2009;200912;747;657;-1054;137;772
+Fluchtunfälle;insgesamt;2008;Summe;9345;9127;;239;
+Fluchtunfälle;insgesamt;2008;200801;727;699;536;401;763
+Fluchtunfälle;insgesamt;2008;200802;793;612;908;2958;778
+Fluchtunfälle;insgesamt;2008;200803;763;411;-378;8564;807
+Fluchtunfälle;insgesamt;2008;200804;837;821;97;195;809
+Fluchtunfälle;insgesamt;2008;200805;871;858;406;152;810
+Fluchtunfälle;insgesamt;2008;200806;859;804;-138;684;814
+Fluchtunfälle;insgesamt;2008;200807;832;935;-314;-1102;806
+Fluchtunfälle;insgesamt;2008;200808;760;759;-865;13;806
+Fluchtunfälle;insgesamt;2008;200809;747;797;-171;-627;802
+Fluchtunfälle;insgesamt;2008;200810;874;873;17;11;802
+Fluchtunfälle;insgesamt;2008;200811;625;868;-2849;-28;782
+Fluchtunfälle;insgesamt;2008;200812;657;690;512;-478;779
+Fluchtunfälle;insgesamt;2007;Summe;9127;8629;;577;
+Fluchtunfälle;insgesamt;2007;200701;699;708;-191;-127;718
+Fluchtunfälle;insgesamt;2007;200702;612;698;-1245;-1232;711
+Fluchtunfälle;insgesamt;2007;200703;411;1138;-3284;-6388;651
+Fluchtunfälle;insgesamt;2007;200704;821;750;9976;947;657
+Fluchtunfälle;insgesamt;2007;200705;858;476;451;8025;688
+Fluchtunfälle;insgesamt;2007;200706;804;565;-629;423;708
+Fluchtunfälle;insgesamt;2007;200707;935;845;1629;1065;716
+Fluchtunfälle;insgesamt;2007;200708;759;774;-1882;-194;715
+Fluchtunfälle;insgesamt;2007;200709;797;718;501;11;721
+Fluchtunfälle;insgesamt;2007;200710;873;599;954;4574;744
+Fluchtunfälle;insgesamt;2007;200711;868;494;-57;7571;775
+Fluchtunfälle;insgesamt;2007;200712;690;864;-2051;-2014;761
+Fluchtunfälle;insgesamt;2006;Summe;8629;11037;;-2182;
+Fluchtunfälle;insgesamt;2006;200601;708;749;-1334;-547;916
+Fluchtunfälle;insgesamt;2006;200602;698;961;-141;-2737;894
+Fluchtunfälle;insgesamt;2006;200603;1138;1115;6304;206;896
+Fluchtunfälle;insgesamt;2006;200604;750;937;-3409;-1996;881
+Fluchtunfälle;insgesamt;2006;200605;476;902;-3653;-4723;845
+Fluchtunfälle;insgesamt;2006;200606;565;901;187;-3729;817
+Fluchtunfälle;insgesamt;2006;200607;845;951;4956;-1115;808
+Fluchtunfälle;insgesamt;2006;200608;774;811;-84;-456;805
+Fluchtunfälle;insgesamt;2006;200609;718;1086;-724;-3389;775
+Fluchtunfälle;insgesamt;2006;200610;599;962;-1657;-3773;744
+Fluchtunfälle;insgesamt;2006;200611;494;845;-1753;-4154;715
+Fluchtunfälle;insgesamt;2006;200612;864;817;749;575;719
+Fluchtunfälle;insgesamt;2005;Summe;11037;10547;;465;
+Fluchtunfälle;insgesamt;2005;200501;749;828;-2049;-954;872
+Fluchtunfälle;insgesamt;2005;200502;961;723;283;3292;892
+Fluchtunfälle;insgesamt;2005;200503;1115;817;1602;3647;917
+Fluchtunfälle;insgesamt;2005;200504;937;875;-1596;709;922
+Fluchtunfälle;insgesamt;2005;200505;902;867;-374;404;925
+Fluchtunfälle;insgesamt;2005;200506;901;859;-11;489;929
+Fluchtunfälle;insgesamt;2005;200507;951;970;555;-196;927
+Fluchtunfälle;insgesamt;2005;200508;811;784;-1472;344;929
+Fluchtunfälle;insgesamt;2005;200509;1086;957;3391;1348;940
+Fluchtunfälle;insgesamt;2005;200510;962;1022;-1142;-587;935
+Fluchtunfälle;insgesamt;2005;200511;845;903;-1216;-642;930
+Fluchtunfälle;insgesamt;2005;200512;817;942;-331;-1327;920
+Fluchtunfälle;insgesamt;2004;Summe;10547;9611;;974;
+Fluchtunfälle;insgesamt;2004;200401;828;747;-35;1084;808
+Fluchtunfälle;insgesamt;2004;200402;723;572;-1268;264;820
+Fluchtunfälle;insgesamt;2004;200403;817;854;13;-433;817
+Fluchtunfälle;insgesamt;2004;200404;875;844;71;367;820
+Fluchtunfälle;insgesamt;2004;200405;867;763;-91;1363;828
+Fluchtunfälle;insgesamt;2004;200406;859;855;-92;47;829
+Fluchtunfälle;insgesamt;2004;200407;970;562;1292;726;863
+Fluchtunfälle;insgesamt;2004;200408;784;698;-1918;1232;870
+Fluchtunfälle;insgesamt;2004;200409;957;945;2207;127;871
+Fluchtunfälle;insgesamt;2004;200410;1022;960;679;646;876
+Fluchtunfälle;insgesamt;2004;200411;903;953;-1164;-525;872
+Fluchtunfälle;insgesamt;2004;200412;942;858;432;979;879
+Fluchtunfälle;insgesamt;2003;Summe;9611;10651;;-976;
+Fluchtunfälle;insgesamt;2003;200301;747;852;581;-1232;879
+Fluchtunfälle;insgesamt;2003;200302;572;817;-2343;-2999;858
+Fluchtunfälle;insgesamt;2003;200303;854;897;493;-479;855
+Fluchtunfälle;insgesamt;2003;200304;844;784;-117;765;860
+Fluchtunfälle;insgesamt;2003;200305;763;857;-96;-1097;852
+Fluchtunfälle;insgesamt;2003;200306;855;987;1206;-1337;841
+Fluchtunfälle;insgesamt;2003;200307;562;1026;-3427;-4522;802
+Fluchtunfälle;insgesamt;2003;200308;698;785;242;-1108;795
+Fluchtunfälle;insgesamt;2003;200309;945;1039;3539;-905;787
+Fluchtunfälle;insgesamt;2003;200310;960;1019;159;-579;782
+Fluchtunfälle;insgesamt;2003;200311;953;882;-73;805;788
+Fluchtunfälle;insgesamt;2003;200312;858;706;-997;2153;801
+Fluchtunfälle;insgesamt;2002;Summe;10651;11396;;-654;
+Fluchtunfälle;insgesamt;2002;200201;852;871;-946;-218;948
+Fluchtunfälle;insgesamt;2002;200202;817;820;-411;-37;948
+Fluchtunfälle;insgesamt;2002;200203;897;962;979;-676;942
+Fluchtunfälle;insgesamt;2002;200204;784;897;-126;-126;933
+Fluchtunfälle;insgesamt;2002;200205;857;1081;931;-2072;914
+Fluchtunfälle;insgesamt;2002;200206;987;905;1517;906;921
+Fluchtunfälle;insgesamt;2002;200207;1026;1047;395;-201;919
+Fluchtunfälle;insgesamt;2002;200208;785;814;-2349;-356;917
+Fluchtunfälle;insgesamt;2002;200209;1039;953;3236;902;924
+Fluchtunfälle;insgesamt;2002;200210;1019;1104;-192;-77;917
+Fluchtunfälle;insgesamt;2002;200211;882;1001;-1344;-1189;907
+Fluchtunfälle;insgesamt;2002;200212;706;941;-1995;-2497;888
+Fluchtunfälle;insgesamt;2001;Summe;11396;11467;;-62;
+Fluchtunfälle;insgesamt;2001;200101;871;835;-832;431;959
+Fluchtunfälle;insgesamt;2001;200102;820;890;-586;-787;953
+Fluchtunfälle;insgesamt;2001;200103;962;974;1732;-123;952
+Fluchtunfälle;insgesamt;2001;200104;897;834;-676;755;957
+Fluchtunfälle;insgesamt;2001;200105;1081;1086;2051;-46;957
+Fluchtunfälle;insgesamt;2001;200106;905;842;-1628;748;962
+Fluchtunfälle;insgesamt;2001;200107;1047;1102;1569;-499;957
+Fluchtunfälle;insgesamt;2001;200108;814;881;-2225;-76;952
+Fluchtunfälle;insgesamt;2001;200109;953;978;1708;-256;950
+Fluchtunfälle;insgesamt;2001;200110;1104;1078;1584;241;952
+Fluchtunfälle;insgesamt;2001;200111;1001;1017;-933;-157;950
+Fluchtunfälle;insgesamt;2001;200112;941;950;-599;-95;950
+Fluchtunfälle;insgesamt;2000;Summe;11467;;;;
+Fluchtunfälle;insgesamt;2000;200001;835;;;;835
+Fluchtunfälle;insgesamt;2000;200002;890;;659;;863
+Fluchtunfälle;insgesamt;2000;200003;974;;944;;900
+Fluchtunfälle;insgesamt;2000;200004;834;;-1437;;883
+Fluchtunfälle;insgesamt;2000;200005;1086;;3022;;924
+Fluchtunfälle;insgesamt;2000;200006;842;;-2247;;910
+Fluchtunfälle;insgesamt;2000;200007;1102;;3088;;938
+Fluchtunfälle;insgesamt;2000;200008;881;;-2005;;931
+Fluchtunfälle;insgesamt;2000;200009;978;;1101;;936
+Fluchtunfälle;insgesamt;2000;200010;1078;;1022;;950
+Fluchtunfälle;insgesamt;2000;200011;1017;;-566;;956
+Fluchtunfälle;insgesamt;2000;200012;950;;-659;;956
+Fluchtunfälle;Verletzte und Getötete;2021;202101;;28;;;
+Fluchtunfälle;Verletzte und Getötete;2021;202102;;34;;;
+Fluchtunfälle;Verletzte und Getötete;2021;202103;;33;;;
+Fluchtunfälle;Verletzte und Getötete;2021;202104;;34;;;
+Fluchtunfälle;Verletzte und Getötete;2021;202105;;34;;;
+Fluchtunfälle;Verletzte und Getötete;2021;202106;;49;;;
+Fluchtunfälle;Verletzte und Getötete;2021;202107;;58;;;
+Fluchtunfälle;Verletzte und Getötete;2021;202108;;36;;;
+Fluchtunfälle;Verletzte und Getötete;2021;202109;;49;;;
+Fluchtunfälle;Verletzte und Getötete;2021;202110;;50;;;
+Fluchtunfälle;Verletzte und Getötete;2021;202111;;27;;;
+Fluchtunfälle;Verletzte und Getötete;2021;202112;;33;;;
+Fluchtunfälle;Verletzte und Getötete;2020;Summe;465;541;;-1405;
+Fluchtunfälle;Verletzte und Getötete;2020;202001;28;32;-3488;-125;45
+Fluchtunfälle;Verletzte und Getötete;2020;202002;34;26;2143;3077;45
+Fluchtunfälle;Verletzte und Getötete;2020;202003;33;44;-294;-25;45
+Fluchtunfälle;Verletzte und Getötete;2020;202004;34;35;303;-286;44
+Fluchtunfälle;Verletzte und Getötete;2020;202005;34;41;0;-1707;44
+Fluchtunfälle;Verletzte und Getötete;2020;202006;49;61;4412;-1967;43
+Fluchtunfälle;Verletzte und Getötete;2020;202007;58;81;1837;-284;41
+Fluchtunfälle;Verletzte und Getötete;2020;202008;36;37;-3793;-27;41
+Fluchtunfälle;Verletzte und Getötete;2020;202009;49;55;3611;-1091;40
+Fluchtunfälle;Verletzte und Getötete;2020;202010;50;45;204;1111;41
+Fluchtunfälle;Verletzte und Getötete;2020;202011;27;41;-46;-3415;40
+Fluchtunfälle;Verletzte und Getötete;2020;202012;33;43;2222;-2326;39
+Fluchtunfälle;Verletzte und Getötete;2019;Summe;541;555;;-252;
+Fluchtunfälle;Verletzte und Getötete;2019;201901;32;40;-1351;-20;46
+Fluchtunfälle;Verletzte und Getötete;2019;201902;26;40;-1875;-35;44
+Fluchtunfälle;Verletzte und Getötete;2019;201903;44;35;6923;2571;45
+Fluchtunfälle;Verletzte und Getötete;2019;201904;35;44;-2045;-2045;44
+Fluchtunfälle;Verletzte und Getötete;2019;201905;41;43;1714;-465;44
+Fluchtunfälle;Verletzte und Getötete;2019;201906;61;49;4878;2449;45
+Fluchtunfälle;Verletzte und Getötete;2019;201907;81;72;3279;125;46
+Fluchtunfälle;Verletzte und Getötete;2019;201908;37;39;-5432;-513;46
+Fluchtunfälle;Verletzte und Getötete;2019;201909;55;59;4865;-678;46
+Fluchtunfälle;Verletzte und Getötete;2019;201910;45;60;-1818;-25;44
+Fluchtunfälle;Verletzte und Getötete;2019;201911;41;37;-889;1081;45
+Fluchtunfälle;Verletzte und Getötete;2019;201912;43;37;488;1622;45
+Fluchtunfälle;Verletzte und Getötete;2018;Summe;555;551;;73;
+Fluchtunfälle;Verletzte und Getötete;2018;201801;40;22;2121;8182;47
+Fluchtunfälle;Verletzte und Getötete;2018;201802;40;41;0;-244;47
+Fluchtunfälle;Verletzte und Getötete;2018;201803;35;36;-125;-278;47
+Fluchtunfälle;Verletzte und Getötete;2018;201804;44;36;2571;2222;48
+Fluchtunfälle;Verletzte und Getötete;2018;201805;43;60;-227;-2833;47
+Fluchtunfälle;Verletzte und Getötete;2018;201806;49;54;1395;-926;46
+Fluchtunfälle;Verletzte und Getötete;2018;201807;72;65;4694;1077;47
+Fluchtunfälle;Verletzte und Getötete;2018;201808;39;38;-4583;263;47
+Fluchtunfälle;Verletzte und Getötete;2018;201809;59;59;5128;0;47
+Fluchtunfälle;Verletzte und Getötete;2018;201810;60;59;169;169;47
+Fluchtunfälle;Verletzte und Getötete;2018;201811;37;48;-3833;-2292;46
+Fluchtunfälle;Verletzte und Getötete;2018;201812;37;33;0;1212;46
+Fluchtunfälle;Verletzte und Getötete;2017;Summe;551;548;;55;
+Fluchtunfälle;Verletzte und Getötete;2017;201701;22;31;-3714;-2903;45
+Fluchtunfälle;Verletzte und Getötete;2017;201702;41;24;8636;7083;46
+Fluchtunfälle;Verletzte und Getötete;2017;201703;36;41;-122;-122;46
+Fluchtunfälle;Verletzte und Getötete;2017;201704;36;42;0;-1429;45
+Fluchtunfälle;Verletzte und Getötete;2017;201705;60;44;6667;3636;47
+Fluchtunfälle;Verletzte und Getötete;2017;201706;54;54;-10;0;47
+Fluchtunfälle;Verletzte und Getötete;2017;201707;65;61;2037;656;47
+Fluchtunfälle;Verletzte und Getötete;2017;201708;38;70;-4154;-4571;44
+Fluchtunfälle;Verletzte und Getötete;2017;201709;59;70;5526;-1571;44
+Fluchtunfälle;Verletzte und Getötete;2017;201710;59;44;0;3409;45
+Fluchtunfälle;Verletzte und Getötete;2017;201711;48;32;-1864;50;46
+Fluchtunfälle;Verletzte und Getötete;2017;201712;33;35;-3125;-571;46
+Fluchtunfälle;Verletzte und Getötete;2016;Summe;548;509;;766;
+Fluchtunfälle;Verletzte und Getötete;2016;201601;31;19;-1842;6316;43
+Fluchtunfälle;Verletzte und Getötete;2016;201602;24;18;-2258;3333;44
+Fluchtunfälle;Verletzte und Getötete;2016;201603;41;49;7083;-1633;43
+Fluchtunfälle;Verletzte und Getötete;2016;201604;42;45;244;-667;43
+Fluchtunfälle;Verletzte und Getötete;2016;201605;44;41;476;732;43
+Fluchtunfälle;Verletzte und Getötete;2016;201606;54;54;2273;0;43
+Fluchtunfälle;Verletzte und Getötete;2016;201607;61;65;1296;-615;43
+Fluchtunfälle;Verletzte und Getötete;2016;201608;70;36;1475;9444;46
+Fluchtunfälle;Verletzte und Getötete;2016;201609;70;49;0;4286;48
+Fluchtunfälle;Verletzte und Getötete;2016;201610;44;52;-3714;-1538;47
+Fluchtunfälle;Verletzte und Getötete;2016;201611;32;43;-2727;-2558;46
+Fluchtunfälle;Verletzte und Getötete;2016;201612;35;38;938;-789;46
+Fluchtunfälle;Verletzte und Getötete;2015;Summe;509;557;;-862;
+Fluchtunfälle;Verletzte und Getötete;2015;201501;19;29;-4571;-3448;46
+Fluchtunfälle;Verletzte und Getötete;2015;201502;18;22;-526;-1818;45
+Fluchtunfälle;Verletzte und Getötete;2015;201503;49;46;17222;652;46
+Fluchtunfälle;Verletzte und Getötete;2015;201504;45;55;-816;-1818;45
+Fluchtunfälle;Verletzte und Getötete;2015;201505;41;50;-889;-18;44
+Fluchtunfälle;Verletzte und Getötete;2015;201506;54;58;3171;-69;44
+Fluchtunfälle;Verletzte und Getötete;2015;201507;65;62;2037;484;44
+Fluchtunfälle;Verletzte und Getötete;2015;201508;36;43;-4462;-1628;43
+Fluchtunfälle;Verletzte und Getötete;2015;201509;49;60;3611;-1833;42
+Fluchtunfälle;Verletzte und Getötete;2015;201510;52;55;612;-545;42
+Fluchtunfälle;Verletzte und Getötete;2015;201511;43;42;-1731;238;42
+Fluchtunfälle;Verletzte und Getötete;2015;201512;38;35;-1163;857;42
+Fluchtunfälle;Verletzte und Getötete;2014;Summe;557;521;;691;
+Fluchtunfälle;Verletzte und Getötete;2014;201401;29;29;741;0;43
+Fluchtunfälle;Verletzte und Getötete;2014;201402;22;22;-2414;0;43
+Fluchtunfälle;Verletzte und Getötete;2014;201403;46;33;10909;3939;45
+Fluchtunfälle;Verletzte und Getötete;2014;201404;55;50;1957;10;45
+Fluchtunfälle;Verletzte und Getötete;2014;201405;50;43;-909;1628;46
+Fluchtunfälle;Verletzte und Getötete;2014;201406;58;54;16;741;46
+Fluchtunfälle;Verletzte und Getötete;2014;201407;62;68;69;-882;45
+Fluchtunfälle;Verletzte und Getötete;2014;201408;43;36;-3065;1944;46
+Fluchtunfälle;Verletzte und Getötete;2014;201409;60;53;3953;1321;47
+Fluchtunfälle;Verletzte und Getötete;2014;201410;55;53;-833;377;47
+Fluchtunfälle;Verletzte und Getötete;2014;201411;42;53;-2364;-2075;46
+Fluchtunfälle;Verletzte und Getötete;2014;201412;35;27;-1667;2963;46
+Fluchtunfälle;Verletzte und Getötete;2013;Summe;521;580;;-1017;
+Fluchtunfälle;Verletzte und Getötete;2013;201301;29;32;2609;-938;48
+Fluchtunfälle;Verletzte und Getötete;2013;201302;22;20;-2414;10;48
+Fluchtunfälle;Verletzte und Getötete;2013;201303;33;44;50;-25;47
+Fluchtunfälle;Verletzte und Getötete;2013;201304;50;37;5152;3514;48
+Fluchtunfälle;Verletzte und Getötete;2013;201305;43;64;-14;-3281;47
+Fluchtunfälle;Verletzte und Getötete;2013;201306;54;61;2558;-1148;46
+Fluchtunfälle;Verletzte und Getötete;2013;201307;68;64;2593;625;46
+Fluchtunfälle;Verletzte und Getötete;2013;201308;36;64;-4706;-4375;44
+Fluchtunfälle;Verletzte und Getötete;2013;201309;53;61;4722;-1311;43
+Fluchtunfälle;Verletzte und Getötete;2013;201310;53;61;0;-1311;43
+Fluchtunfälle;Verletzte und Getötete;2013;201311;53;49;0;816;43
+Fluchtunfälle;Verletzte und Getötete;2013;201312;27;23;-4906;1739;43
+Fluchtunfälle;Verletzte und Getötete;2012;Summe;580;498;;1647;
+Fluchtunfälle;Verletzte und Getötete;2012;201201;32;26;667;2308;42
+Fluchtunfälle;Verletzte und Getötete;2012;201202;20;26;-375;-2308;42
+Fluchtunfälle;Verletzte und Getötete;2012;201203;44;32;120;375;43
+Fluchtunfälle;Verletzte und Getötete;2012;201204;37;55;-1591;-3273;41
+Fluchtunfälle;Verletzte und Getötete;2012;201205;64;68;7297;-588;41
+Fluchtunfälle;Verletzte und Getötete;2012;201206;61;49;-469;2449;42
+Fluchtunfälle;Verletzte und Getötete;2012;201207;64;56;492;1429;42
+Fluchtunfälle;Verletzte und Getötete;2012;201208;64;35;0;8286;45
+Fluchtunfälle;Verletzte und Getötete;2012;201209;61;52;-469;1731;46
+Fluchtunfälle;Verletzte und Getötete;2012;201210;61;36;0;6944;48
+Fluchtunfälle;Verletzte und Getötete;2012;201211;49;33;-1967;4848;49
+Fluchtunfälle;Verletzte und Getötete;2012;201212;23;30;-5306;-2333;48
+Fluchtunfälle;Verletzte und Getötete;2011;Summe;498;456;;921;
+Fluchtunfälle;Verletzte und Getötete;2011;201101;26;17;1304;5294;39
+Fluchtunfälle;Verletzte und Getötete;2011;201102;26;21;0;2381;39
+Fluchtunfälle;Verletzte und Getötete;2011;201103;32;29;2308;1034;39
+Fluchtunfälle;Verletzte und Getötete;2011;201104;55;41;7188;3415;41
+Fluchtunfälle;Verletzte und Getötete;2011;201105;68;31;2364;11935;44
+Fluchtunfälle;Verletzte und Getötete;2011;201106;49;57;-2794;-1404;43
+Fluchtunfälle;Verletzte und Getötete;2011;201107;56;65;1429;-1385;42
+Fluchtunfälle;Verletzte und Getötete;2011;201108;35;48;-375;-2708;41
+Fluchtunfälle;Verletzte und Getötete;2011;201109;52;42;4857;2381;42
+Fluchtunfälle;Verletzte und Getötete;2011;201110;36;49;-3077;-2653;41
+Fluchtunfälle;Verletzte und Getötete;2011;201111;33;33;-833;0;41
+Fluchtunfälle;Verletzte und Getötete;2011;201112;30;23;-909;3043;42
+Fluchtunfälle;Verletzte und Getötete;2010;Summe;456;459;;-65;
+Fluchtunfälle;Verletzte und Getötete;2010;201001;17;22;-5405;-2273;38
+Fluchtunfälle;Verletzte und Getötete;2010;201002;21;35;2353;-40;37
+Fluchtunfälle;Verletzte und Getötete;2010;201003;29;20;381;45;37
+Fluchtunfälle;Verletzte und Getötete;2010;201004;41;43;4138;-465;37
+Fluchtunfälle;Verletzte und Getötete;2010;201005;31;49;-2439;-3673;36
+Fluchtunfälle;Verletzte und Getötete;2010;201006;57;34;8387;6765;38
+Fluchtunfälle;Verletzte und Getötete;2010;201007;65;61;1404;656;38
+Fluchtunfälle;Verletzte und Getötete;2010;201008;48;40;-2615;20;39
+Fluchtunfälle;Verletzte und Getötete;2010;201009;42;37;-125;1351;39
+Fluchtunfälle;Verletzte und Getötete;2010;201010;49;47;1667;426;39
+Fluchtunfälle;Verletzte und Getötete;2010;201011;33;34;-3265;-294;39
+Fluchtunfälle;Verletzte und Getötete;2010;201012;23;37;-303;-3784;38
+Fluchtunfälle;Verletzte und Getötete;2009;Summe;459;489;;-613;
+Fluchtunfälle;Verletzte und Getötete;2009;200901;22;27;-1852;-1852;40
+Fluchtunfälle;Verletzte und Getötete;2009;200902;35;29;5909;2069;41
+Fluchtunfälle;Verletzte und Getötete;2009;200903;20;25;-4286;-20;40
+Fluchtunfälle;Verletzte und Getötete;2009;200904;43;41;115;488;41
+Fluchtunfälle;Verletzte und Getötete;2009;200905;49;57;1395;-1404;40
+Fluchtunfälle;Verletzte und Getötete;2009;200906;34;59;-3061;-4237;38
+Fluchtunfälle;Verletzte und Getötete;2009;200907;61;48;7941;2708;39
+Fluchtunfälle;Verletzte und Getötete;2009;200908;40;55;-3443;-2727;38
+Fluchtunfälle;Verletzte und Getötete;2009;200909;37;48;-75;-2292;37
+Fluchtunfälle;Verletzte und Getötete;2009;200910;47;46;2703;217;37
+Fluchtunfälle;Verletzte und Getötete;2009;200911;34;27;-2766;2593;37
+Fluchtunfälle;Verletzte und Getötete;2009;200912;37;27;882;3704;38
+Fluchtunfälle;Verletzte und Getötete;2008;Summe;489;476;;273;
+Fluchtunfälle;Verletzte und Getötete;2008;200801;27;19;-69;4211;40
+Fluchtunfälle;Verletzte und Getötete;2008;200802;29;33;741;-1212;40
+Fluchtunfälle;Verletzte und Getötete;2008;200803;25;20;-1379;25;40
+Fluchtunfälle;Verletzte und Getötete;2008;200804;41;43;64;-465;40
+Fluchtunfälle;Verletzte und Getötete;2008;200805;57;48;3902;1875;41
+Fluchtunfälle;Verletzte und Getötete;2008;200806;59;50;351;18;42
+Fluchtunfälle;Verletzte und Getötete;2008;200807;48;59;-1864;-1864;41
+Fluchtunfälle;Verletzte und Getötete;2008;200808;55;39;1458;4103;42
+Fluchtunfälle;Verletzte und Getötete;2008;200809;48;41;-1273;1707;43
+Fluchtunfälle;Verletzte und Getötete;2008;200810;46;49;-417;-612;43
+Fluchtunfälle;Verletzte und Getötete;2008;200811;27;46;-413;-413;41
+Fluchtunfälle;Verletzte und Getötete;2008;200812;27;29;0;-69;41
+Fluchtunfälle;Verletzte und Getötete;2007;Summe;476;505;;-574;
+Fluchtunfälle;Verletzte und Getötete;2007;200701;19;31;-5682;-3871;41
+Fluchtunfälle;Verletzte und Getötete;2007;200702;33;33;7368;0;41
+Fluchtunfälle;Verletzte und Getötete;2007;200703;20;34;-3939;-4118;40
+Fluchtunfälle;Verletzte und Getötete;2007;200704;43;25;115;72;41
+Fluchtunfälle;Verletzte und Getötete;2007;200705;48;33;1163;4545;43
+Fluchtunfälle;Verletzte und Getötete;2007;200706;50;40;417;25;44
+Fluchtunfälle;Verletzte und Getötete;2007;200707;59;78;18;-2436;42
+Fluchtunfälle;Verletzte und Getötete;2007;200708;39;40;-339;-25;42
+Fluchtunfälle;Verletzte und Getötete;2007;200709;41;66;513;-3788;40
+Fluchtunfälle;Verletzte und Getötete;2007;200710;49;43;1951;1395;40
+Fluchtunfälle;Verletzte und Getötete;2007;200711;46;38;-612;2105;41
+Fluchtunfälle;Verletzte und Getötete;2007;200712;29;44;-3696;-3409;40
+Fluchtunfälle;Verletzte und Getötete;2006;Summe;505;525;;-381;
+Fluchtunfälle;Verletzte und Getötete;2006;200601;31;24;-313;2917;44
+Fluchtunfälle;Verletzte und Getötete;2006;200602;33;22;645;50;45
+Fluchtunfälle;Verletzte und Getötete;2006;200603;34;33;303;303;45
+Fluchtunfälle;Verletzte und Getötete;2006;200604;25;45;-2647;-4444;44
+Fluchtunfälle;Verletzte und Getötete;2006;200605;33;52;32;-3654;42
+Fluchtunfälle;Verletzte und Getötete;2006;200606;40;53;2121;-2453;41
+Fluchtunfälle;Verletzte und Getötete;2006;200607;78;65;95;20;42
+Fluchtunfälle;Verletzte und Getötete;2006;200608;40;37;-4872;811;42
+Fluchtunfälle;Verletzte und Getötete;2006;200609;66;81;65;-1852;41
+Fluchtunfälle;Verletzte und Getötete;2006;200610;43;54;-3485;-2037;40
+Fluchtunfälle;Verletzte und Getötete;2006;200611;38;27;-1163;4074;41
+Fluchtunfälle;Verletzte und Getötete;2006;200612;44;32;1579;375;42
+Fluchtunfälle;Verletzte und Getötete;2005;Summe;525;542;;-314;
+Fluchtunfälle;Verletzte und Getötete;2005;200501;24;33;-4667;-2727;44
+Fluchtunfälle;Verletzte und Getötete;2005;200502;22;31;-833;-2903;44
+Fluchtunfälle;Verletzte und Getötete;2005;200503;33;20;50;65;45
+Fluchtunfälle;Verletzte und Getötete;2005;200504;45;39;3636;1538;45
+Fluchtunfälle;Verletzte und Getötete;2005;200505;52;41;1556;2683;46
+Fluchtunfälle;Verletzte und Getötete;2005;200506;53;53;192;0;46
+Fluchtunfälle;Verletzte und Getötete;2005;200507;65;83;2264;-2169;45
+Fluchtunfälle;Verletzte und Getötete;2005;200508;37;48;-4308;-2292;44
+Fluchtunfälle;Verletzte und Getötete;2005;200509;81;63;11892;2857;45
+Fluchtunfälle;Verletzte und Getötete;2005;200510;54;40;-3333;35;46
+Fluchtunfälle;Verletzte und Getötete;2005;200511;27;46;-50;-413;45
+Fluchtunfälle;Verletzte und Getötete;2005;200512;32;45;1852;-2889;44
+Fluchtunfälle;Verletzte und Getötete;2004;Summe;542;562;;-356;
+Fluchtunfälle;Verletzte und Getötete;2004;200401;33;21;-5769;5714;48
+Fluchtunfälle;Verletzte und Getötete;2004;200402;31;20;-606;55;49
+Fluchtunfälle;Verletzte und Getötete;2004;200403;20;44;-3548;-5455;47
+Fluchtunfälle;Verletzte und Getötete;2004;200404;39;30;95;30;48
+Fluchtunfälle;Verletzte und Getötete;2004;200405;41;56;513;-2679;46
+Fluchtunfälle;Verletzte und Getötete;2004;200406;53;81;2927;-3457;44
+Fluchtunfälle;Verletzte und Getötete;2004;200407;83;35;566;13714;48
+Fluchtunfälle;Verletzte und Getötete;2004;200408;48;41;-4217;1707;49
+Fluchtunfälle;Verletzte und Getötete;2004;200409;63;50;3125;26;50
+Fluchtunfälle;Verletzte und Getötete;2004;200410;40;47;-3651;-1489;49
+Fluchtunfälle;Verletzte und Getötete;2004;200411;46;59;15;-2203;48
+Fluchtunfälle;Verletzte und Getötete;2004;200412;45;78;-217;-4231;45
+Fluchtunfälle;Verletzte und Getötete;2003;Summe;562;628;;-1051;
+Fluchtunfälle;Verletzte und Getötete;2003;200301;21;36;-4474;-4167;51
+Fluchtunfälle;Verletzte und Getötete;2003;200302;20;33;-476;-3939;50
+Fluchtunfälle;Verletzte und Getötete;2003;200303;44;39;120;1282;50
+Fluchtunfälle;Verletzte und Getötete;2003;200304;30;37;-3182;-1892;50
+Fluchtunfälle;Verletzte und Getötete;2003;200305;56;73;8667;-2329;48
+Fluchtunfälle;Verletzte und Getötete;2003;200306;81;74;4464;946;49
+Fluchtunfälle;Verletzte und Getötete;2003;200307;35;72;-5679;-5139;46
+Fluchtunfälle;Verletzte und Getötete;2003;200308;41;50;1714;-18;45
+Fluchtunfälle;Verletzte und Getötete;2003;200309;50;77;2195;-3506;43
+Fluchtunfälle;Verletzte und Getötete;2003;200310;47;49;-6;-408;43
+Fluchtunfälle;Verletzte und Getötete;2003;200311;59;50;2553;18;44
+Fluchtunfälle;Verletzte und Getötete;2003;200312;78;38;322;10526;47
+Fluchtunfälle;Verletzte und Getötete;2002;Summe;628;687;;-859;
+Fluchtunfälle;Verletzte und Getötete;2002;200201;36;44;-769;-1818;57
+Fluchtunfälle;Verletzte und Getötete;2002;200202;33;51;-833;-3529;55
+Fluchtunfälle;Verletzte und Getötete;2002;200203;39;43;1818;-93;55
+Fluchtunfälle;Verletzte und Getötete;2002;200204;37;68;-513;-4559;52
+Fluchtunfälle;Verletzte und Getötete;2002;200205;73;67;973;896;53
+Fluchtunfälle;Verletzte und Getötete;2002;200206;74;78;137;-513;52
+Fluchtunfälle;Verletzte und Getötete;2002;200207;72;83;-27;-1325;51
+Fluchtunfälle;Verletzte und Getötete;2002;200208;50;57;-3056;-1228;51
+Fluchtunfälle;Verletzte und Getötete;2002;200209;77;40;54;925;54
+Fluchtunfälle;Verletzte und Getötete;2002;200210;49;85;-3636;-4235;51
+Fluchtunfälle;Verletzte und Getötete;2002;200211;50;32;204;5625;52
+Fluchtunfälle;Verletzte und Getötete;2002;200212;38;39;-24;-256;52
+Fluchtunfälle;Verletzte und Getötete;2001;Summe;687;658;;441;
+Fluchtunfälle;Verletzte und Getötete;2001;200101;44;34;-222;2941;56
+Fluchtunfälle;Verletzte und Getötete;2001;200102;51;35;1591;4571;57
+Fluchtunfälle;Verletzte und Getötete;2001;200103;43;48;-1569;-1042;57
+Fluchtunfälle;Verletzte und Getötete;2001;200104;68;57;5814;193;58
+Fluchtunfälle;Verletzte und Getötete;2001;200105;67;69;-147;-29;57
+Fluchtunfälle;Verletzte und Getötete;2001;200106;78;58;1642;3448;59
+Fluchtunfälle;Verletzte und Getötete;2001;200107;83;67;641;2388;60
+Fluchtunfälle;Verletzte und Getötete;2001;200108;57;74;-3133;-2297;59
+Fluchtunfälle;Verletzte und Getötete;2001;200109;40;68;-2982;-4118;57
+Fluchtunfälle;Verletzte und Getötete;2001;200110;85;47;1125;8085;60
+Fluchtunfälle;Verletzte und Getötete;2001;200111;32;56;-6235;-4286;58
+Fluchtunfälle;Verletzte und Getötete;2001;200112;39;45;2188;-1333;57
+Fluchtunfälle;Verletzte und Getötete;2000;Summe;658;;;;
+Fluchtunfälle;Verletzte und Getötete;2000;200001;34;;;;34
+Fluchtunfälle;Verletzte und Getötete;2000;200002;35;;294;;35
+Fluchtunfälle;Verletzte und Getötete;2000;200003;48;;3714;;39
+Fluchtunfälle;Verletzte und Getötete;2000;200004;57;;1875;;44
+Fluchtunfälle;Verletzte und Getötete;2000;200005;69;;2105;;49
+Fluchtunfälle;Verletzte und Getötete;2000;200006;58;;-1594;;50
+Fluchtunfälle;Verletzte und Getötete;2000;200007;67;;1552;;53
+Fluchtunfälle;Verletzte und Getötete;2000;200008;74;;1045;;55
+Fluchtunfälle;Verletzte und Getötete;2000;200009;68;;-811;;57
+Fluchtunfälle;Verletzte und Getötete;2000;200010;47;;-3088;;56
+Fluchtunfälle;Verletzte und Getötete;2000;200011;56;;1915;;56
+Fluchtunfälle;Verletzte und Getötete;2000;200012;45;;-1964;;55
+Verkehrsunfälle;insgesamt;2021;202101;;3139;;;
+Verkehrsunfälle;insgesamt;2021;202102;;3271;;;
+Verkehrsunfälle;insgesamt;2021;202103;;2825;;;
+Verkehrsunfälle;insgesamt;2021;202104;;2251;;;
+Verkehrsunfälle;insgesamt;2021;202105;;3193;;;
+Verkehrsunfälle;insgesamt;2021;202106;;3380;;;
+Verkehrsunfälle;insgesamt;2021;202107;;4031;;;
+Verkehrsunfälle;insgesamt;2021;202108;;3007;;;
+Verkehrsunfälle;insgesamt;2021;202109;;3659;;;
+Verkehrsunfälle;insgesamt;2021;202110;;3867;;;
+Verkehrsunfälle;insgesamt;2021;202111;;3150;;;
+Verkehrsunfälle;insgesamt;2021;202112;;2661;;;
+Verkehrsunfälle;insgesamt;2020;Summe;38434;46010;;-1647;
+Verkehrsunfälle;insgesamt;2020;202001;3139;3440;-933;-875;3809
+Verkehrsunfälle;insgesamt;2020;202002;3271;3442;421;-497;3795
+Verkehrsunfälle;insgesamt;2020;202003;2825;3940;-1363;-283;3702
+Verkehrsunfälle;insgesamt;2020;202004;2251;3781;-2032;-4047;3574
+Verkehrsunfälle;insgesamt;2020;202005;3193;4046;4185;-2108;3503
+Verkehrsunfälle;insgesamt;2020;202006;3380;3727;586;-931;3474
+Verkehrsunfälle;insgesamt;2020;202007;4031;4763;1926;-1537;3413
+Verkehrsunfälle;insgesamt;2020;202008;3007;3214;-254;-644;3396
+Verkehrsunfälle;insgesamt;2020;202009;3659;4042;2168;-948;3364
+Verkehrsunfälle;insgesamt;2020;202010;3867;4348;568;-1106;3324
+Verkehrsunfälle;insgesamt;2020;202011;3150;3805;-1854;-1721;3270
+Verkehrsunfälle;insgesamt;2020;202012;2661;3462;-1552;-2314;3203
+Verkehrsunfälle;insgesamt;2019;Summe;46010;46408;;-86;
+Verkehrsunfälle;insgesamt;2019;201901;3440;3328;-31;337;3877
+Verkehrsunfälle;insgesamt;2019;201902;3442;3109;6;1071;3904
+Verkehrsunfälle;insgesamt;2019;201903;3940;3796;1447;379;3916
+Verkehrsunfälle;insgesamt;2019;201904;3781;4016;-404;-585;3897
+Verkehrsunfälle;insgesamt;2019;201905;4046;3953;701;235;3905
+Verkehrsunfälle;insgesamt;2019;201906;3727;4284;-788;-13;3858
+Verkehrsunfälle;insgesamt;2019;201907;4763;4547;278;475;3876
+Verkehrsunfälle;insgesamt;2019;201908;3214;3206;-3252;25;3877
+Verkehrsunfälle;insgesamt;2019;201909;4042;4124;2576;-199;3870
+Verkehrsunfälle;insgesamt;2019;201910;4348;4468;757;-269;3860
+Verkehrsunfälle;insgesamt;2019;201911;3805;4027;-1249;-551;3842
+Verkehrsunfälle;insgesamt;2019;201912;3462;3550;-901;-248;3834
+Verkehrsunfälle;insgesamt;2018;Summe;46408;45454;;21;
+Verkehrsunfälle;insgesamt;2018;201801;3328;3320;-475;24;3789
+Verkehrsunfälle;insgesamt;2018;201802;3109;3223;-658;-354;3779
+Verkehrsunfälle;insgesamt;2018;201803;3796;4106;221;-755;3753
+Verkehrsunfälle;insgesamt;2018;201804;4016;3533;58;1367;3793
+Verkehrsunfälle;insgesamt;2018;201805;3953;4314;-157;-837;3763
+Verkehrsunfälle;insgesamt;2018;201806;4284;3818;837;1221;3802
+Verkehrsunfälle;insgesamt;2018;201807;4547;4355;614;441;3818
+Verkehrsunfälle;insgesamt;2018;201808;3206;3267;-2949;-187;3813
+Verkehrsunfälle;insgesamt;2018;201809;4124;4017;2863;266;3822
+Verkehrsunfälle;insgesamt;2018;201810;4468;4198;834;643;3845
+Verkehrsunfälle;insgesamt;2018;201811;4027;3809;-987;572;3863
+Verkehrsunfälle;insgesamt;2018;201812;3550;3494;-1185;16;3867
+Verkehrsunfälle;insgesamt;2017;Summe;45454;46797;;-287;
+Verkehrsunfälle;insgesamt;2017;201701;3320;3297;-1027;7;3902
+Verkehrsunfälle;insgesamt;2017;201702;3223;3383;-292;-473;3888
+Verkehrsunfälle;insgesamt;2017;201703;4106;3653;274;124;3926
+Verkehrsunfälle;insgesamt;2017;201704;3533;4209;-1396;-1606;3870
+Verkehrsunfälle;insgesamt;2017;201705;4314;3833;2211;1255;3910
+Verkehrsunfälle;insgesamt;2017;201706;3818;4260;-115;-1038;3873
+Verkehrsunfälle;insgesamt;2017;201707;4355;4478;1406;-275;3863
+Verkehrsunfälle;insgesamt;2017;201708;3267;3400;-2498;-391;3852
+Verkehrsunfälle;insgesamt;2017;201709;4017;4289;2296;-634;3829
+Verkehrsunfälle;insgesamt;2017;201710;4198;4297;451;-23;3821
+Verkehrsunfälle;insgesamt;2017;201711;3809;3998;-927;-473;3805
+Verkehrsunfälle;insgesamt;2017;201712;3494;3700;-827;-557;3788
+Verkehrsunfälle;insgesamt;2016;Summe;46797;46635;;35;
+Verkehrsunfälle;insgesamt;2016;201601;3297;3326;-1463;-87;3884
+Verkehrsunfälle;insgesamt;2016;201602;3383;3090;261;948;3908
+Verkehrsunfälle;insgesamt;2016;201603;3653;3888;798;-604;3889
+Verkehrsunfälle;insgesamt;2016;201604;4209;4022;1522;465;3904
+Verkehrsunfälle;insgesamt;2016;201605;3833;3915;-893;-209;3897
+Verkehrsunfälle;insgesamt;2016;201606;4260;3898;1114;929;3928
+Verkehrsunfälle;insgesamt;2016;201607;4478;4729;512;-531;3907
+Verkehrsunfälle;insgesamt;2016;201608;3400;3431;-2407;-9;3904
+Verkehrsunfälle;insgesamt;2016;201609;4289;4015;2615;682;3927
+Verkehrsunfälle;insgesamt;2016;201610;4297;4467;19;-381;3913
+Verkehrsunfälle;insgesamt;2016;201611;3998;3992;-696;15;3913
+Verkehrsunfälle;insgesamt;2016;201612;3700;3862;-745;-419;3900
+Verkehrsunfälle;insgesamt;2015;Summe;46635;46804;;-36;
+Verkehrsunfälle;insgesamt;2015;201501;3326;3410;-1513;-246;3893
+Verkehrsunfälle;insgesamt;2015;201502;3090;3315;-71;-679;3875
+Verkehrsunfälle;insgesamt;2015;201503;3888;4027;2583;-345;3863
+Verkehrsunfälle;insgesamt;2015;201504;4022;3840;345;474;3878
+Verkehrsunfälle;insgesamt;2015;201505;3915;4346;-266;-992;3842
+Verkehrsunfälle;insgesamt;2015;201506;3898;3833;-43;17;3848
+Verkehrsunfälle;insgesamt;2015;201507;4729;4443;2132;644;3872
+Verkehrsunfälle;insgesamt;2015;201508;3431;3379;-2745;154;3876
+Verkehrsunfälle;insgesamt;2015;201509;4015;4137;1702;-295;3866
+Verkehrsunfälle;insgesamt;2015;201510;4467;4251;1126;508;3884
+Verkehrsunfälle;insgesamt;2015;201511;3992;3904;-1063;225;3891
+Verkehrsunfälle;insgesamt;2015;201512;3862;3919;-326;-145;3886
+Verkehrsunfälle;insgesamt;2014;Summe;46804;46988;;-39;
+Verkehrsunfälle;insgesamt;2014;201401;3410;3316;-94;283;3924
+Verkehrsunfälle;insgesamt;2014;201402;3315;3467;-279;-438;3911
+Verkehrsunfälle;insgesamt;2014;201403;4027;3712;2148;849;3937
+Verkehrsunfälle;insgesamt;2014;201404;3840;4008;-464;-419;3923
+Verkehrsunfälle;insgesamt;2014;201405;4346;3703;1318;1736;3977
+Verkehrsunfälle;insgesamt;2014;201406;3833;4284;-118;-1053;3939
+Verkehrsunfälle;insgesamt;2014;201407;4443;4641;1591;-427;3923
+Verkehrsunfälle;insgesamt;2014;201408;3379;3387;-2395;-24;3922
+Verkehrsunfälle;insgesamt;2014;201409;4137;4130;2243;17;3923
+Verkehrsunfälle;insgesamt;2014;201410;4251;4533;276;-622;3899
+Verkehrsunfälle;insgesamt;2014;201411;3904;4043;-816;-344;3887
+Verkehrsunfälle;insgesamt;2014;201412;3919;3764;38;412;3900
+Verkehrsunfälle;insgesamt;2013;Summe;46988;44891;;467;
+Verkehrsunfälle;insgesamt;2013;201301;3316;3176;-233;441;3753
+Verkehrsunfälle;insgesamt;2013;201302;3467;3102;455;1177;3783
+Verkehrsunfälle;insgesamt;2013;201303;3712;3739;707;-72;3781
+Verkehrsunfälle;insgesamt;2013;201304;4008;3667;797;93;3809
+Verkehrsunfälle;insgesamt;2013;201305;3703;4114;-761;-999;3775
+Verkehrsunfälle;insgesamt;2013;201306;4284;4018;1569;662;3797
+Verkehrsunfälle;insgesamt;2013;201307;4641;4281;833;841;3827
+Verkehrsunfälle;insgesamt;2013;201308;3387;3452;-2702;-188;3822
+Verkehrsunfälle;insgesamt;2013;201309;4130;3962;2194;424;3836
+Verkehrsunfälle;insgesamt;2013;201310;4533;4146;976;933;3868
+Verkehrsunfälle;insgesamt;2013;201311;4043;3839;-1081;531;3885
+Verkehrsunfälle;insgesamt;2013;201312;3764;3395;-69;1087;3916
+Verkehrsunfälle;insgesamt;2012;Summe;44891;42114;;659;
+Verkehrsunfälle;insgesamt;2012;201201;3176;2775;-941;1445;3543
+Verkehrsunfälle;insgesamt;2012;201202;3102;2903;-233;685;3560
+Verkehrsunfälle;insgesamt;2012;201203;3739;3523;2054;613;3578
+Verkehrsunfälle;insgesamt;2012;201204;3667;3529;-193;391;3589
+Verkehrsunfälle;insgesamt;2012;201205;4114;4143;1219;-7;3587
+Verkehrsunfälle;insgesamt;2012;201206;4018;3212;-233;2509;3654
+Verkehrsunfälle;insgesamt;2012;201207;4281;4074;655;508;3671
+Verkehrsunfälle;insgesamt;2012;201208;3452;3322;-1936;391;3682
+Verkehrsunfälle;insgesamt;2012;201209;3962;3730;1477;622;3701
+Verkehrsunfälle;insgesamt;2012;201210;4146;3830;464;825;3728
+Verkehrsunfälle;insgesamt;2012;201211;3839;3567;-74;763;3750
+Verkehrsunfälle;insgesamt;2012;201212;3395;3506;-1157;-317;3741
+Verkehrsunfälle;insgesamt;2011;Summe;42114;37884;;1117;
+Verkehrsunfälle;insgesamt;2011;201101;2775;2346;-1869;1829;3193
+Verkehrsunfälle;insgesamt;2011;201102;2903;2539;461;1434;3223
+Verkehrsunfälle;insgesamt;2011;201103;3523;3309;2136;647;3241
+Verkehrsunfälle;insgesamt;2011;201104;3529;3202;17;1021;3268
+Verkehrsunfälle;insgesamt;2011;201105;4143;2974;174;3931;3366
+Verkehrsunfälle;insgesamt;2011;201106;3212;3193;-2247;6;3367
+Verkehrsunfälle;insgesamt;2011;201107;4074;3712;2684;975;3397
+Verkehrsunfälle;insgesamt;2011;201108;3322;2843;-1846;1685;3437
+Verkehrsunfälle;insgesamt;2011;201109;3730;3524;1228;585;3454
+Verkehrsunfälle;insgesamt;2011;201110;3830;3500;268;943;3482
+Verkehrsunfälle;insgesamt;2011;201111;3567;3329;-687;715;3502
+Verkehrsunfälle;insgesamt;2011;201112;3506;3413;-171;272;3510
+Verkehrsunfälle;insgesamt;2010;Summe;37884;37461;;113;
+Verkehrsunfälle;insgesamt;2010;201001;2346;2482;-2673;-548;3110
+Verkehrsunfälle;insgesamt;2010;201002;2539;3480;823;-2704;3032
+Verkehrsunfälle;insgesamt;2010;201003;3309;2744;3033;2059;3079
+Verkehrsunfälle;insgesamt;2010;201004;3202;2953;-323;843;3100
+Verkehrsunfälle;insgesamt;2010;201005;2974;3240;-712;-821;3078
+Verkehrsunfälle;insgesamt;2010;201006;3193;2876;736;1102;3104
+Verkehrsunfälle;insgesamt;2010;201007;3712;3622;1625;248;3112
+Verkehrsunfälle;insgesamt;2010;201008;2843;2749;-2341;342;3119
+Verkehrsunfälle;insgesamt;2010;201009;3524;3252;2395;836;3142
+Verkehrsunfälle;insgesamt;2010;201010;3500;3567;-68;-188;3137
+Verkehrsunfälle;insgesamt;2010;201011;3329;3294;-489;106;3139
+Verkehrsunfälle;insgesamt;2010;201012;3413;3202;252;659;3157
+Verkehrsunfälle;insgesamt;2009;Summe;37461;38362;;-235;
+Verkehrsunfälle;insgesamt;2009;200901;2482;2945;-1406;-1572;3158
+Verkehrsunfälle;insgesamt;2009;200902;3480;3171;4021;974;3184
+Verkehrsunfälle;insgesamt;2009;200903;2744;2910;-2115;-57;3170
+Verkehrsunfälle;insgesamt;2009;200904;2953;3339;762;-1156;3138
+Verkehrsunfälle;insgesamt;2009;200905;3240;3428;972;-548;3122
+Verkehrsunfälle;insgesamt;2009;200906;2876;3374;-1123;-1476;3081
+Verkehrsunfälle;insgesamt;2009;200907;3622;3500;2594;349;3091
+Verkehrsunfälle;insgesamt;2009;200908;2749;2870;-241;-422;3081
+Verkehrsunfälle;insgesamt;2009;200909;3252;3271;183;-58;3079
+Verkehrsunfälle;insgesamt;2009;200910;3567;3683;969;-315;3070
+Verkehrsunfälle;insgesamt;2009;200911;3294;2983;-765;1043;3096
+Verkehrsunfälle;insgesamt;2009;200912;3202;2888;-279;1087;3122
+Verkehrsunfälle;insgesamt;2008;Summe;38362;38562;;-52;
+Verkehrsunfälle;insgesamt;2008;200801;2945;2735;-751;768;3231
+Verkehrsunfälle;insgesamt;2008;200802;3171;2643;767;1998;3275
+Verkehrsunfälle;insgesamt;2008;200803;2910;2836;-823;261;3281
+Verkehrsunfälle;insgesamt;2008;200804;3339;3292;1474;143;3285
+Verkehrsunfälle;insgesamt;2008;200805;3428;3529;267;-286;3277
+Verkehrsunfälle;insgesamt;2008;200806;3374;3225;-158;462;3289
+Verkehrsunfälle;insgesamt;2008;200807;3500;3622;373;-337;3279
+Verkehrsunfälle;insgesamt;2008;200808;2870;2943;-18;-248;3273
+Verkehrsunfälle;insgesamt;2008;200809;3271;3414;1397;-419;3261
+Verkehrsunfälle;insgesamt;2008;200810;3683;3695;126;-32;3260
+Verkehrsunfälle;insgesamt;2008;200811;2983;3444;-1901;-1339;3222
+Verkehrsunfälle;insgesamt;2008;200812;2888;3184;-318;-93;3197
+Verkehrsunfälle;insgesamt;2007;Summe;38562;38333;;6;
+Verkehrsunfälle;insgesamt;2007;200701;2735;2893;-2001;-546;3181
+Verkehrsunfälle;insgesamt;2007;200702;2643;2901;-336;-889;3160
+Verkehrsunfälle;insgesamt;2007;200703;2836;4165;73;-3191;3049
+Verkehrsunfälle;insgesamt;2007;200704;3292;2874;1608;1454;3084
+Verkehrsunfälle;insgesamt;2007;200705;3529;3032;72;1639;3125
+Verkehrsunfälle;insgesamt;2007;200706;3225;2853;-861;1304;3156
+Verkehrsunfälle;insgesamt;2007;200707;3622;3611;1231;3;3157
+Verkehrsunfälle;insgesamt;2007;200708;2943;2993;-1875;-167;3153
+Verkehrsunfälle;insgesamt;2007;200709;3414;3233;16;56;3168
+Verkehrsunfälle;insgesamt;2007;200710;3695;3286;823;1245;3202
+Verkehrsunfälle;insgesamt;2007;200711;3444;3073;-679;1207;3233
+Verkehrsunfälle;insgesamt;2007;200712;3184;3419;-755;-687;3214
+Verkehrsunfälle;insgesamt;2006;Summe;38333;40723;;-587;
+Verkehrsunfälle;insgesamt;2006;200601;2893;2788;-1848;377;3402
+Verkehrsunfälle;insgesamt;2006;200602;2901;3461;28;-1618;3356
+Verkehrsunfälle;insgesamt;2006;200603;4165;3560;4357;1699;3406
+Verkehrsunfälle;insgesamt;2006;200604;2874;3320;-31;-1343;3369
+Verkehrsunfälle;insgesamt;2006;200605;3032;3321;55;-87;3345
+Verkehrsunfälle;insgesamt;2006;200606;2853;3499;-59;-1846;3291
+Verkehrsunfälle;insgesamt;2006;200607;3611;3631;2657;-55;3289
+Verkehrsunfälle;insgesamt;2006;200608;2993;2965;-1711;94;3292
+Verkehrsunfälle;insgesamt;2006;200609;3233;3921;802;-1755;3234
+Verkehrsunfälle;insgesamt;2006;200610;3286;3503;164;-619;3216
+Verkehrsunfälle;insgesamt;2006;200611;3073;3205;-648;-412;3205
+Verkehrsunfälle;insgesamt;2006;200612;3419;3549;1126;-366;3194
+Verkehrsunfälle;insgesamt;2005;Summe;40723;40064;;164;
+Verkehrsunfälle;insgesamt;2005;200501;2788;2969;-2648;-61;3324
+Verkehrsunfälle;insgesamt;2005;200502;3461;2728;2414;2687;3385
+Verkehrsunfälle;insgesamt;2005;200503;3560;3271;286;884;3409
+Verkehrsunfälle;insgesamt;2005;200504;3320;3183;-674;43;3420
+Verkehrsunfälle;insgesamt;2005;200505;3321;3378;3;-169;3415
+Verkehrsunfälle;insgesamt;2005;200506;3499;3229;536;836;3438
+Verkehrsunfälle;insgesamt;2005;200507;3631;3760;377;-343;3427
+Verkehrsunfälle;insgesamt;2005;200508;2965;2926;-1834;133;3430
+Verkehrsunfälle;insgesamt;2005;200509;3921;3663;3224;704;3452
+Verkehrsunfälle;insgesamt;2005;200510;3503;3716;-1066;-573;3434
+Verkehrsunfälle;insgesamt;2005;200511;3205;3449;-851;-707;3414
+Verkehrsunfälle;insgesamt;2005;200512;3549;3792;1073;-641;3394
+Verkehrsunfälle;insgesamt;2004;Summe;40064;38635;;37;
+Verkehrsunfälle;insgesamt;2004;200401;2969;3073;-1582;-338;3211
+Verkehrsunfälle;insgesamt;2004;200402;2728;2968;-812;-809;3191
+Verkehrsunfälle;insgesamt;2004;200403;3271;3060;199;69;3209
+Verkehrsunfälle;insgesamt;2004;200404;3183;3106;-269;248;3215
+Verkehrsunfälle;insgesamt;2004;200405;3378;3255;613;378;3225
+Verkehrsunfälle;insgesamt;2004;200406;3229;3139;-441;287;3233
+Verkehrsunfälle;insgesamt;2004;200407;3760;3321;1644;1322;3269
+Verkehrsunfälle;insgesamt;2004;200408;2926;2837;-2218;314;3277
+Verkehrsunfälle;insgesamt;2004;200409;3663;3393;2519;796;3299
+Verkehrsunfälle;insgesamt;2004;200410;3716;3631;145;234;3306
+Verkehrsunfälle;insgesamt;2004;200411;3449;3325;-719;373;3317
+Verkehrsunfälle;insgesamt;2004;200412;3792;3527;994;751;3339
+Verkehrsunfälle;insgesamt;2003;Summe;38635;40608;;-486;
+Verkehrsunfälle;insgesamt;2003;200301;3073;3063;165;33;3385
+Verkehrsunfälle;insgesamt;2003;200302;2968;2892;-342;263;3391
+Verkehrsunfälle;insgesamt;2003;200303;3060;3380;31;-947;3365
+Verkehrsunfälle;insgesamt;2003;200304;3106;3142;15;-115;3362
+Verkehrsunfälle;insgesamt;2003;200305;3255;3731;48;-1276;3322
+Verkehrsunfälle;insgesamt;2003;200306;3139;3586;-356;-1247;3285
+Verkehrsunfälle;insgesamt;2003;200307;3321;3960;58;-1614;3231
+Verkehrsunfälle;insgesamt;2003;200308;2837;3007;-1457;-565;3217
+Verkehrsunfälle;insgesamt;2003;200309;3393;3436;196;-125;3214
+Verkehrsunfälle;insgesamt;2003;200310;3631;3859;701;-591;3195
+Verkehrsunfälle;insgesamt;2003;200311;3325;3529;-843;-578;3178
+Verkehrsunfälle;insgesamt;2003;200312;3527;3023;608;1667;3220
+Verkehrsunfälle;insgesamt;2002;Summe;40608;45713;;-1117;
+Verkehrsunfälle;insgesamt;2002;200201;3063;3348;-2321;-851;3786
+Verkehrsunfälle;insgesamt;2002;200202;2892;3148;-558;-813;3764
+Verkehrsunfälle;insgesamt;2002;200203;3380;3970;1687;-1486;3715
+Verkehrsunfälle;insgesamt;2002;200204;3142;3565;-704;-1187;3680
+Verkehrsunfälle;insgesamt;2002;200205;3731;4128;1875;-962;3647
+Verkehrsunfälle;insgesamt;2002;200206;3586;3715;-389;-347;3636
+Verkehrsunfälle;insgesamt;2002;200207;3960;4288;1043;-765;3609
+Verkehrsunfälle;insgesamt;2002;200208;3007;3351;-2407;-1027;3580
+Verkehrsunfälle;insgesamt;2002;200209;3436;3939;1427;-1277;3538
+Verkehrsunfälle;insgesamt;2002;200210;3859;4250;1231;-92;3506
+Verkehrsunfälle;insgesamt;2002;200211;3529;4022;-855;-1226;3465
+Verkehrsunfälle;insgesamt;2002;200212;3023;3989;-1434;-2422;3384
+Verkehrsunfälle;insgesamt;2001;Summe;45713;44494;;274;
+Verkehrsunfälle;insgesamt;2001;200101;3348;3448;-1164;-29;3700
+Verkehrsunfälle;insgesamt;2001;200102;3148;3181;-597;-104;3697
+Verkehrsunfälle;insgesamt;2001;200103;3970;3783;2611;494;3712
+Verkehrsunfälle;insgesamt;2001;200104;3565;3317;-102;748;3733
+Verkehrsunfälle;insgesamt;2001;200105;4128;4123;1579;12;3733
+Verkehrsunfälle;insgesamt;2001;200106;3715;3329;-10;116;3766
+Verkehrsunfälle;insgesamt;2001;200107;4288;4282;1542;14;3766
+Verkehrsunfälle;insgesamt;2001;200108;3351;3387;-2185;-106;3763
+Verkehrsunfälle;insgesamt;2001;200109;3939;3807;1755;347;3774
+Verkehrsunfälle;insgesamt;2001;200110;4250;4117;79;323;3785
+Verkehrsunfälle;insgesamt;2001;200111;4022;3931;-536;231;3793
+Verkehrsunfälle;insgesamt;2001;200112;3989;3789;-82;528;3809
+Verkehrsunfälle;insgesamt;2000;Summe;44494;;;;
+Verkehrsunfälle;insgesamt;2000;200001;3448;;;;3448
+Verkehrsunfälle;insgesamt;2000;200002;3181;;-774;;3315
+Verkehrsunfälle;insgesamt;2000;200003;3783;;1892;;3471
+Verkehrsunfälle;insgesamt;2000;200004;3317;;-1232;;3432
+Verkehrsunfälle;insgesamt;2000;200005;4123;;243;;3570
+Verkehrsunfälle;insgesamt;2000;200006;3329;;-1926;;3530
+Verkehrsunfälle;insgesamt;2000;200007;4282;;2863;;3638
+Verkehrsunfälle;insgesamt;2000;200008;3387;;-209;;3606
+Verkehrsunfälle;insgesamt;2000;200009;3807;;124;;3629
+Verkehrsunfälle;insgesamt;2000;200010;4117;;814;;3677
+Verkehrsunfälle;insgesamt;2000;200011;3931;;-452;;3700
+Verkehrsunfälle;insgesamt;2000;200012;3789;;-361;;3708
+Verkehrsunfälle;mit Personenschäden;2021;202101;;301;;;
+Verkehrsunfälle;mit Personenschäden;2021;202102;;306;;;
+Verkehrsunfälle;mit Personenschäden;2021;202103;;270;;;
+Verkehrsunfälle;mit Personenschäden;2021;202104;;314;;;
+Verkehrsunfälle;mit Personenschäden;2021;202105;;416;;;
+Verkehrsunfälle;mit Personenschäden;2021;202106;;496;;;
+Verkehrsunfälle;mit Personenschäden;2021;202107;;717;;;
+Verkehrsunfälle;mit Personenschäden;2021;202108;;487;;;
+Verkehrsunfälle;mit Personenschäden;2021;202109;;555;;;
+Verkehrsunfälle;mit Personenschäden;2021;202110;;489;;;
+Verkehrsunfälle;mit Personenschäden;2021;202111;;297;;;
+Verkehrsunfälle;mit Personenschäden;2021;202112;;270;;;
+Verkehrsunfälle;mit Personenschäden;2020;Summe;4918;5313;;-743;
+Verkehrsunfälle;mit Personenschäden;2020;202001;301;243;-767;2387;448
+Verkehrsunfälle;mit Personenschäden;2020;202002;306;289;166;588;449
+Verkehrsunfälle;mit Personenschäden;2020;202003;270;369;-1176;-2683;441
+Verkehrsunfälle;mit Personenschäden;2020;202004;314;426;163;-2629;431
+Verkehrsunfälle;mit Personenschäden;2020;202005;416;416;3248;0;431
+Verkehrsunfälle;mit Personenschäden;2020;202006;496;615;1923;-1935;422
+Verkehrsunfälle;mit Personenschäden;2020;202007;717;762;4456;-591;418
+Verkehrsunfälle;mit Personenschäden;2020;202008;487;451;-3208;798;421
+Verkehrsunfälle;mit Personenschäden;2020;202009;555;533;1396;413;423
+Verkehrsunfälle;mit Personenschäden;2020;202010;489;500;-1189;-22;422
+Verkehrsunfälle;mit Personenschäden;2020;202011;297;383;-3926;-2245;415
+Verkehrsunfälle;mit Personenschäden;2020;202012;270;326;-909;-1718;410
+Verkehrsunfälle;mit Personenschäden;2019;Summe;5313;5471;;-289;
+Verkehrsunfälle;mit Personenschäden;2019;201901;243;290;-1383;-1621;452
+Verkehrsunfälle;mit Personenschäden;2019;201902;289;265;1893;906;454
+Verkehrsunfälle;mit Personenschäden;2019;201903;369;331;2768;1148;457
+Verkehrsunfälle;mit Personenschäden;2019;201904;426;519;1545;-1792;449
+Verkehrsunfälle;mit Personenschäden;2019;201905;416;528;-235;-2121;440
+Verkehrsunfälle;mit Personenschäden;2019;201906;615;622;4784;-113;440
+Verkehrsunfälle;mit Personenschäden;2019;201907;762;714;239;672;444
+Verkehrsunfälle;mit Personenschäden;2019;201908;451;456;-4081;-11;443
+Verkehrsunfälle;mit Personenschäden;2019;201909;533;528;1818;95;444
+Verkehrsunfälle;mit Personenschäden;2019;201910;500;529;-619;-548;441
+Verkehrsunfälle;mit Personenschäden;2019;201911;383;407;-234;-59;439
+Verkehrsunfälle;mit Personenschäden;2019;201912;326;282;-1488;156;443
+Verkehrsunfälle;mit Personenschäden;2018;Summe;5471;5062;;808;
+Verkehrsunfälle;mit Personenschäden;2018;201801;290;242;-554;1983;426
+Verkehrsunfälle;mit Personenschäden;2018;201802;265;277;-862;-433;425
+Verkehrsunfälle;mit Personenschäden;2018;201803;331;407;2491;-1867;419
+Verkehrsunfälle;mit Personenschäden;2018;201804;519;365;568;4219;431
+Verkehrsunfälle;mit Personenschäden;2018;201805;528;545;173;-312;430
+Verkehrsunfälle;mit Personenschäden;2018;201806;622;568;178;951;434
+Verkehrsunfälle;mit Personenschäden;2018;201807;714;611;1479;1686;443
+Verkehrsunfälle;mit Personenschäden;2018;201808;456;447;-3613;201;444
+Verkehrsunfälle;mit Personenschäden;2018;201809;528;430;1579;2279;452
+Verkehrsunfälle;mit Personenschäden;2018;201810;529;490;19;796;455
+Verkehrsunfälle;mit Personenschäden;2018;201811;407;373;-2306;912;458
+Verkehrsunfälle;mit Personenschäden;2018;201812;282;307;-3071;-814;456
+Verkehrsunfälle;mit Personenschäden;2017;Summe;5062;5329;;-501;
+Verkehrsunfälle;mit Personenschäden;2017;201701;242;298;-2366;-1879;439
+Verkehrsunfälle;mit Personenschäden;2017;201702;277;305;1446;-918;437
+Verkehrsunfälle;mit Personenschäden;2017;201703;407;299;4693;3612;446
+Verkehrsunfälle;mit Personenschäden;2017;201704;365;447;-1032;-1834;439
+Verkehrsunfälle;mit Personenschäden;2017;201705;545;502;4932;857;443
+Verkehrsunfälle;mit Personenschäden;2017;201706;568;592;422;-405;441
+Verkehrsunfälle;mit Personenschäden;2017;201707;611;623;757;-193;440
+Verkehrsunfälle;mit Personenschäden;2017;201708;447;469;-2684;-469;438
+Verkehrsunfälle;mit Personenschäden;2017;201709;430;627;-38;-3142;422
+Verkehrsunfälle;mit Personenschäden;2017;201710;490;448;1395;938;425
+Verkehrsunfälle;mit Personenschäden;2017;201711;373;402;-2388;-721;423
+Verkehrsunfälle;mit Personenschäden;2017;201712;307;317;-1769;-315;422
+Verkehrsunfälle;mit Personenschäden;2016;Summe;5329;5430;;-186;
+Verkehrsunfälle;mit Personenschäden;2016;201601;298;263;-224;1331;455
+Verkehrsunfälle;mit Personenschäden;2016;201602;305;262;235;1641;459
+Verkehrsunfälle;mit Personenschäden;2016;201603;299;376;-197;-2048;453
+Verkehrsunfälle;mit Personenschäden;2016;201604;447;495;495;-97;449
+Verkehrsunfälle;mit Personenschäden;2016;201605;502;487;123;308;450
+Verkehrsunfälle;mit Personenschäden;2016;201606;592;560;1793;571;453
+Verkehrsunfälle;mit Personenschäden;2016;201607;623;708;524;-1201;445
+Verkehrsunfälle;mit Personenschäden;2016;201608;469;481;-2472;-249;444
+Verkehrsunfälle;mit Personenschäden;2016;201609;627;509;3369;2318;454
+Verkehrsunfälle;mit Personenschäden;2016;201610;448;475;-2855;-568;452
+Verkehrsunfälle;mit Personenschäden;2016;201611;402;430;-1027;-651;450
+Verkehrsunfälle;mit Personenschäden;2016;201612;317;384;-2114;-1745;444
+Verkehrsunfälle;mit Personenschäden;2015;Summe;5430;5523;;-168;
+Verkehrsunfälle;mit Personenschäden;2015;201501;263;324;-2054;-1883;455
+Verkehrsunfälle;mit Personenschäden;2015;201502;262;309;-38;-1521;451
+Verkehrsunfälle;mit Personenschäden;2015;201503;376;460;4351;-1826;444
+Verkehrsunfälle;mit Personenschäden;2015;201504;495;455;3165;879;448
+Verkehrsunfälle;mit Personenschäden;2015;201505;487;536;-162;-914;444
+Verkehrsunfälle;mit Personenschäden;2015;201506;560;558;1499;36;444
+Verkehrsunfälle;mit Personenschäden;2015;201507;708;654;2643;826;448
+Verkehrsunfälle;mit Personenschäden;2015;201508;481;432;-3206;1134;452
+Verkehrsunfälle;mit Personenschäden;2015;201509;509;534;582;-468;450
+Verkehrsunfälle;mit Personenschäden;2015;201510;475;529;-668;-1021;446
+Verkehrsunfälle;mit Personenschäden;2015;201511;430;401;-947;723;448
+Verkehrsunfälle;mit Personenschäden;2015;201512;384;331;-107;1601;453
+Verkehrsunfälle;mit Personenschäden;2014;Summe;5523;5386;;254;
+Verkehrsunfälle;mit Personenschäden;2014;201401;324;254;-899;2756;455
+Verkehrsunfälle;mit Personenschäden;2014;201402;309;263;-463;1749;459
+Verkehrsunfälle;mit Personenschäden;2014;201403;460;284;4887;6197;473
+Verkehrsunfälle;mit Personenschäden;2014;201404;455;440;-109;341;474
+Verkehrsunfälle;mit Personenschäden;2014;201405;536;454;178;1806;481
+Verkehrsunfälle;mit Personenschäden;2014;201406;558;580;41;-379;479
+Verkehrsunfälle;mit Personenschäden;2014;201407;654;812;172;-1946;466
+Verkehrsunfälle;mit Personenschäden;2014;201408;432;514;-3394;-1595;459
+Verkehrsunfälle;mit Personenschäden;2014;201409;534;531;2361;56;460
+Verkehrsunfälle;mit Personenschäden;2014;201410;529;510;-94;373;461
+Verkehrsunfälle;mit Personenschäden;2014;201411;401;388;-242;335;462
+Verkehrsunfälle;mit Personenschäden;2014;201412;331;356;-1746;-702;460
+Verkehrsunfälle;mit Personenschäden;2013;Summe;5386;5325;;115;
+Verkehrsunfälle;mit Personenschäden;2013;201301;254;273;242;-696;442
+Verkehrsunfälle;mit Personenschäden;2013;201302;263;233;354;1288;445
+Verkehrsunfälle;mit Personenschäden;2013;201303;284;424;798;-3302;433
+Verkehrsunfälle;mit Personenschäden;2013;201304;440;394;5493;1168;437
+Verkehrsunfälle;mit Personenschäden;2013;201305;454;596;318;-2383;425
+Verkehrsunfälle;mit Personenschäden;2013;201306;580;577;2775;52;425
+Verkehrsunfälle;mit Personenschäden;2013;201307;812;632;40;2848;440
+Verkehrsunfälle;mit Personenschäden;2013;201308;514;545;-367;-569;438
+Verkehrsunfälle;mit Personenschäden;2013;201309;531;532;331;-19;438
+Verkehrsunfälle;mit Personenschäden;2013;201310;510;477;-395;692;440
+Verkehrsunfälle;mit Personenschäden;2013;201311;388;394;-2392;-152;440
+Verkehrsunfälle;mit Personenschäden;2013;201312;356;248;-825;4355;449
+Verkehrsunfälle;mit Personenschäden;2012;Summe;5325;4874;;925;
+Verkehrsunfälle;mit Personenschäden;2012;201201;273;255;-1333;706;408
+Verkehrsunfälle;mit Personenschäden;2012;201202;233;264;-1465;-1174;405
+Verkehrsunfälle;mit Personenschäden;2012;201203;424;373;8197;1367;409
+Verkehrsunfälle;mit Personenschäden;2012;201204;394;505;-708;-2198;400
+Verkehrsunfälle;mit Personenschäden;2012;201205;596;636;5127;-629;397
+Verkehrsunfälle;mit Personenschäden;2012;201206;577;399;-319;4461;412
+Verkehrsunfälle;mit Personenschäden;2012;201207;632;532;953;188;420
+Verkehrsunfälle;mit Personenschäden;2012;201208;545;402;-1377;3557;432
+Verkehrsunfälle;mit Personenschäden;2012;201209;532;441;-239;2063;439
+Verkehrsunfälle;mit Personenschäden;2012;201210;477;393;-1034;2137;446
+Verkehrsunfälle;mit Personenschäden;2012;201211;394;359;-174;975;449
+Verkehrsunfälle;mit Personenschäden;2012;201212;248;315;-3706;-2127;444
+Verkehrsunfälle;mit Personenschäden;2011;Summe;4874;4240;;1495;
+Verkehrsunfälle;mit Personenschäden;2011;201101;255;147;1435;7347;362
+Verkehrsunfälle;mit Personenschäden;2011;201102;264;200;353;32;368
+Verkehrsunfälle;mit Personenschäden;2011;201103;373;291;4129;2818;375
+Verkehrsunfälle;mit Personenschäden;2011;201104;505;377;3539;3395;385
+Verkehrsunfälle;mit Personenschäden;2011;201105;636;320;2594;9875;412
+Verkehrsunfälle;mit Personenschäden;2011;201106;399;440;-3726;-932;408
+Verkehrsunfälle;mit Personenschäden;2011;201107;532;619;3333;-1405;401
+Verkehrsunfälle;mit Personenschäden;2011;201108;402;416;-2444;-337;400
+Verkehrsunfälle;mit Personenschäden;2011;201109;441;456;97;-329;398
+Verkehrsunfälle;mit Personenschäden;2011;201110;393;432;-1088;-903;395
+Verkehrsunfälle;mit Personenschäden;2011;201111;359;319;-865;1254;399
+Verkehrsunfälle;mit Personenschäden;2011;201112;315;223;-1226;4126;406
+Verkehrsunfälle;mit Personenschäden;2010;Summe;4240;4065;;431;
+Verkehrsunfälle;mit Personenschäden;2010;201001;147;184;-5288;-2011;336
+Verkehrsunfälle;mit Personenschäden;2010;201002;200;273;3605;-2674;330
+Verkehrsunfälle;mit Personenschäden;2010;201003;291;202;455;4406;337
+Verkehrsunfälle;mit Personenschäden;2010;201004;377;357;2955;56;339
+Verkehrsunfälle;mit Personenschäden;2010;201005;320;454;-1512;-2952;328
+Verkehrsunfälle;mit Personenschäden;2010;201006;440;371;375;186;333
+Verkehrsunfälle;mit Personenschäden;2010;201007;619;476;4068;3004;345
+Verkehrsunfälle;mit Personenschäden;2010;201008;416;376;-3279;1064;349
+Verkehrsunfälle;mit Personenschäden;2010;201009;456;388;962;1753;354
+Verkehrsunfälle;mit Personenschäden;2010;201010;432;360;-526;20;360
+Verkehrsunfälle;mit Personenschäden;2010;201011;319;312;-2616;224;361
+Verkehrsunfälle;mit Personenschäden;2010;201012;223;312;-3009;-2853;353
+Verkehrsunfälle;mit Personenschäden;2009;Summe;4065;4038;;67;
+Verkehrsunfälle;mit Personenschäden;2009;200901;184;260;-20;-2923;330
+Verkehrsunfälle;mit Personenschäden;2009;200902;273;279;4837;-215;330
+Verkehrsunfälle;mit Personenschäden;2009;200903;202;210;-2601;-381;329
+Verkehrsunfälle;mit Personenschäden;2009;200904;357;315;7673;1333;333
+Verkehrsunfälle;mit Personenschäden;2009;200905;454;445;2717;202;333
+Verkehrsunfälle;mit Personenschäden;2009;200906;371;424;-1828;-125;329
+Verkehrsunfälle;mit Personenschäden;2009;200907;476;459;283;37;330
+Verkehrsunfälle;mit Personenschäden;2009;200908;376;402;-2101;-647;328
+Verkehrsunfälle;mit Personenschäden;2009;200909;388;360;319;778;330
+Verkehrsunfälle;mit Personenschäden;2009;200910;360;373;-722;-349;329
+Verkehrsunfälle;mit Personenschäden;2009;200911;312;281;-1333;1103;332
+Verkehrsunfälle;mit Personenschäden;2009;200912;312;230;0;3565;339
+Verkehrsunfälle;mit Personenschäden;2008;Summe;4038;4276;;-557;
+Verkehrsunfälle;mit Personenschäden;2008;200801;260;218;-2192;1927;360
+Verkehrsunfälle;mit Personenschäden;2008;200802;279;217;731;2857;365
+Verkehrsunfälle;mit Personenschäden;2008;200803;210;293;-2473;-2833;358
+Verkehrsunfälle;mit Personenschäden;2008;200804;315;396;50;-2045;351
+Verkehrsunfälle;mit Personenschäden;2008;200805;445;482;4127;-768;348
+Verkehrsunfälle;mit Personenschäden;2008;200806;424;444;-472;-45;347
+Verkehrsunfälle;mit Personenschäden;2008;200807;459;435;825;552;349
+Verkehrsunfälle;mit Personenschäden;2008;200808;402;344;-1242;1686;353
+Verkehrsunfälle;mit Personenschäden;2008;200809;360;385;-1045;-649;351
+Verkehrsunfälle;mit Personenschäden;2008;200810;373;405;361;-79;349
+Verkehrsunfälle;mit Personenschäden;2008;200811;281;324;-2466;-1327;345
+Verkehrsunfälle;mit Personenschäden;2008;200812;230;333;-1815;-3093;337
+Verkehrsunfälle;mit Personenschäden;2007;Summe;4276;4751;;-10;
+Verkehrsunfälle;mit Personenschäden;2007;200701;218;291;-4352;-2509;390
+Verkehrsunfälle;mit Personenschäden;2007;200702;217;237;-46;-844;388
+Verkehrsunfälle;mit Personenschäden;2007;200703;293;275;3502;655;390
+Verkehrsunfälle;mit Personenschäden;2007;200704;396;301;3515;3156;398
+Verkehrsunfälle;mit Personenschäden;2007;200705;482;471;2172;234;399
+Verkehrsunfälle;mit Personenschäden;2007;200706;444;406;-788;936;402
+Verkehrsunfälle;mit Personenschäden;2007;200707;435;671;-203;-3517;382
+Verkehrsunfälle;mit Personenschäden;2007;200708;344;422;-2092;-1848;376
+Verkehrsunfälle;mit Personenschäden;2007;200709;385;407;1192;-541;374
+Verkehrsunfälle;mit Personenschäden;2007;200710;405;500;519;-19;366
+Verkehrsunfälle;mit Personenschäden;2007;200711;324;384;-20;-1563;361
+Verkehrsunfälle;mit Personenschäden;2007;200712;333;386;278;-1373;356
+Verkehrsunfälle;mit Personenschäden;2006;Summe;4751;5474;;-1321;
+Verkehrsunfälle;mit Personenschäden;2006;200601;291;244;-4025;1926;460
+Verkehrsunfälle;mit Personenschäden;2006;200602;237;229;-1856;349;461
+Verkehrsunfälle;mit Personenschäden;2006;200603;275;299;1603;-803;459
+Verkehrsunfälle;mit Personenschäden;2006;200604;301;422;945;-2867;449
+Verkehrsunfälle;mit Personenschäden;2006;200605;471;521;5648;-96;445
+Verkehrsunfälle;mit Personenschäden;2006;200606;406;627;-138;-3525;426
+Verkehrsunfälle;mit Personenschäden;2006;200607;671;558;6527;2025;436
+Verkehrsunfälle;mit Personenschäden;2006;200608;422;462;-3711;-866;432
+Verkehrsunfälle;mit Personenschäden;2006;200609;407;678;-355;-3997;410
+Verkehrsunfälle;mit Personenschäden;2006;200610;500;451;2285;1086;414
+Verkehrsunfälle;mit Personenschäden;2006;200611;384;496;-232;-2258;404
+Verkehrsunfälle;mit Personenschäden;2006;200612;386;487;52;-2074;396
+Verkehrsunfälle;mit Personenschäden;2005;Summe;5474;5214;;499;
+Verkehrsunfälle;mit Personenschäden;2005;200501;244;286;-4135;-1469;431
+Verkehrsunfälle;mit Personenschäden;2005;200502;229;240;-615;-458;430
+Verkehrsunfälle;mit Personenschäden;2005;200503;299;321;3057;-685;428
+Verkehrsunfälle;mit Personenschäden;2005;200504;422;388;4114;876;431
+Verkehrsunfälle;mit Personenschäden;2005;200505;521;476;2346;945;435
+Verkehrsunfälle;mit Personenschäden;2005;200506;627;491;2035;277;446
+Verkehrsunfälle;mit Personenschäden;2005;200507;558;646;-11;-1362;439
+Verkehrsunfälle;mit Personenschäden;2005;200508;462;584;-172;-2089;429
+Verkehrsunfälle;mit Personenschäden;2005;200509;678;541;4675;2532;440
+Verkehrsunfälle;mit Personenschäden;2005;200510;451;465;-3348;-301;439
+Verkehrsunfälle;mit Personenschäden;2005;200511;496;360;998;3778;450
+Verkehrsunfälle;mit Personenschäden;2005;200512;487;416;-181;1707;456
+Verkehrsunfälle;mit Personenschäden;2004;Summe;5214;5052;;321;
+Verkehrsunfälle;mit Personenschäden;2004;200401;286;282;-2533;142;421
+Verkehrsunfälle;mit Personenschäden;2004;200402;240;232;-1608;345;422
+Verkehrsunfälle;mit Personenschäden;2004;200403;321;374;3375;-1417;418
+Verkehrsunfälle;mit Personenschäden;2004;200404;388;429;2087;-956;414
+Verkehrsunfälle;mit Personenschäden;2004;200405;476;510;2268;-667;411
+Verkehrsunfälle;mit Personenschäden;2004;200406;491;566;315;-1325;405
+Verkehrsunfälle;mit Personenschäden;2004;200407;646;538;3157;2007;414
+Verkehrsunfälle;mit Personenschäden;2004;200408;584;461;-96;2668;424
+Verkehrsunfälle;mit Personenschäden;2004;200409;541;452;-736;1969;432
+Verkehrsunfälle;mit Personenschäden;2004;200410;465;466;-1405;-21;432
+Verkehrsunfälle;mit Personenschäden;2004;200411;360;359;-2258;28;432
+Verkehrsunfälle;mit Personenschäden;2004;200412;416;383;1556;862;435
+Verkehrsunfälle;mit Personenschäden;2003;Summe;5052;5620;;-1011;
+Verkehrsunfälle;mit Personenschäden;2003;200301;282;328;-724;-1402;465
+Verkehrsunfälle;mit Personenschäden;2003;200302;232;316;-1773;-2658;458
+Verkehrsunfälle;mit Personenschäden;2003;200303;374;414;6121;-966;454
+Verkehrsunfälle;mit Personenschäden;2003;200304;429;432;1471;-69;454
+Verkehrsunfälle;mit Personenschäden;2003;200305;510;537;1888;-503;452
+Verkehrsunfälle;mit Personenschäden;2003;200306;566;675;1098;-1615;443
+Verkehrsunfälle;mit Personenschäden;2003;200307;538;711;-495;-2433;428
+Verkehrsunfälle;mit Personenschäden;2003;200308;461;479;-1431;-376;427
+Verkehrsunfälle;mit Personenschäden;2003;200309;452;509;-195;-112;422
+Verkehrsunfälle;mit Personenschäden;2003;200310;466;467;31;-21;422
+Verkehrsunfälle;mit Personenschäden;2003;200311;359;448;-2296;-1987;414
+Verkehrsunfälle;mit Personenschäden;2003;200312;383;304;669;2599;421
+Verkehrsunfälle;mit Personenschäden;2002;Summe;5620;5948;;-551;
+Verkehrsunfälle;mit Personenschäden;2002;200201;328;354;-13;-734;494
+Verkehrsunfälle;mit Personenschäden;2002;200202;316;343;-366;-787;491
+Verkehrsunfälle;mit Personenschäden;2002;200203;414;426;3101;-282;490
+Verkehrsunfälle;mit Personenschäden;2002;200204;432;454;435;-485;488
+Verkehrsunfälle;mit Personenschäden;2002;200205;537;655;2431;-1802;479
+Verkehrsunfälle;mit Personenschäden;2002;200206;675;560;257;2054;488
+Verkehrsunfälle;mit Personenschäden;2002;200207;711;755;533;-583;485
+Verkehrsunfälle;mit Personenschäden;2002;200208;479;510;-3263;-608;482
+Verkehrsunfälle;mit Personenschäden;2002;200209;509;497;626;241;483
+Verkehrsunfälle;mit Personenschäden;2002;200210;467;581;-825;-1962;473
+Verkehrsunfälle;mit Personenschäden;2002;200211;448;436;-407;275;474
+Verkehrsunfälle;mit Personenschäden;2002;200212;304;377;-3214;-1936;468
+Verkehrsunfälle;mit Personenschäden;2001;Summe;5948;5677;;477;
+Verkehrsunfälle;mit Personenschäden;2001;200101;354;321;-1216;1028;476
+Verkehrsunfälle;mit Personenschäden;2001;200102;343;329;-311;426;477
+Verkehrsunfälle;mit Personenschäden;2001;200103;426;414;242;29;478
+Verkehrsunfälle;mit Personenschäden;2001;200104;454;441;657;295;479
+Verkehrsunfälle;mit Personenschäden;2001;200105;655;568;4427;1532;486
+Verkehrsunfälle;mit Personenschäden;2001;200106;560;555;-145;9;487
+Verkehrsunfälle;mit Personenschäden;2001;200107;755;610;3482;2377;499
+Verkehrsunfälle;mit Personenschäden;2001;200108;510;525;-3245;-286;498
+Verkehrsunfälle;mit Personenschäden;2001;200109;497;557;-255;-1077;493
+Verkehrsunfälle;mit Personenschäden;2001;200110;581;493;169;1785;500
+Verkehrsunfälle;mit Personenschäden;2001;200111;436;461;-2496;-542;498
+Verkehrsunfälle;mit Personenschäden;2001;200112;377;403;-1353;-645;496
+Verkehrsunfälle;mit Personenschäden;2000;Summe;5677;;;;
+Verkehrsunfälle;mit Personenschäden;2000;200001;321;;;;321
+Verkehrsunfälle;mit Personenschäden;2000;200002;329;;249;;325
+Verkehrsunfälle;mit Personenschäden;2000;200003;414;;2584;;355
+Verkehrsunfälle;mit Personenschäden;2000;200004;441;;652;;376
+Verkehrsunfälle;mit Personenschäden;2000;200005;568;;288;;415
+Verkehrsunfälle;mit Personenschäden;2000;200006;555;;-229;;438
+Verkehrsunfälle;mit Personenschäden;2000;200007;610;;991;;463
+Verkehrsunfälle;mit Personenschäden;2000;200008;525;;-1393;;470
+Verkehrsunfälle;mit Personenschäden;2000;200009;557;;61;;480
+Verkehrsunfälle;mit Personenschäden;2000;200010;493;;-1149;;481
+Verkehrsunfälle;mit Personenschäden;2000;200011;461;;-649;;479
+Verkehrsunfälle;mit Personenschäden;2000;200012;403;;-1258;;473
+Verkehrsunfälle;Verletzte und Getötete;2021;202101;;360;;;
+Verkehrsunfälle;Verletzte und Getötete;2021;202102;;355;;;
+Verkehrsunfälle;Verletzte und Getötete;2021;202103;;334;;;
+Verkehrsunfälle;Verletzte und Getötete;2021;202104;;363;;;
+Verkehrsunfälle;Verletzte und Getötete;2021;202105;;464;;;
+Verkehrsunfälle;Verletzte und Getötete;2021;202106;;585;;;
+Verkehrsunfälle;Verletzte und Getötete;2021;202107;;821;;;
+Verkehrsunfälle;Verletzte und Getötete;2021;202108;;563;;;
+Verkehrsunfälle;Verletzte und Getötete;2021;202109;;634;;;
+Verkehrsunfälle;Verletzte und Getötete;2021;202110;;566;;;
+Verkehrsunfälle;Verletzte und Getötete;2021;202111;;348;;;
+Verkehrsunfälle;Verletzte und Getötete;2021;202112;;311;;;
+Verkehrsunfälle;Verletzte und Getötete;2020;Summe;5704;6239;;-858;
+Verkehrsunfälle;Verletzte und Getötete;2020;202001;360;297;-476;2121;525
+Verkehrsunfälle;Verletzte und Getötete;2020;202002;355;345;-139;29;526
+Verkehrsunfälle;Verletzte und Getötete;2020;202003;334;427;-592;-2178;518
+Verkehrsunfälle;Verletzte und Getötete;2020;202004;363;515;868;-2951;506
+Verkehrsunfälle;Verletzte und Getötete;2020;202005;464;484;2782;-413;504
+Verkehrsunfälle;Verletzte und Getötete;2020;202006;585;710;2608;-1761;494
+Verkehrsunfälle;Verletzte und Getötete;2020;202007;821;898;4034;-857;487
+Verkehrsunfälle;Verletzte und Getötete;2020;202008;563;532;-3143;583;490
+Verkehrsunfälle;Verletzte und Getötete;2020;202009;634;609;1261;411;492
+Verkehrsunfälle;Verletzte und Getötete;2020;202010;566;591;-1073;-423;490
+Verkehrsunfälle;Verletzte und Getötete;2020;202011;348;453;-3852;-2318;481
+Verkehrsunfälle;Verletzte und Getötete;2020;202012;311;378;-1063;-1772;475
+Verkehrsunfälle;Verletzte und Getötete;2019;Summe;6239;6527;;-441;
+Verkehrsunfälle;Verletzte und Getötete;2019;201901;297;350;-1466;-1514;540
+Verkehrsunfälle;Verletzte und Getötete;2019;201902;345;328;1616;518;541
+Verkehrsunfälle;Verletzte und Getötete;2019;201903;427;383;2377;1149;545
+Verkehrsunfälle;Verletzte und Getötete;2019;201904;515;619;2061;-168;536
+Verkehrsunfälle;Verletzte und Getötete;2019;201905;484;640;-602;-2438;523
+Verkehrsunfälle;Verletzte und Getötete;2019;201906;710;732;4669;-301;521
+Verkehrsunfälle;Verletzte und Getötete;2019;201907;898;852;2648;54;525
+Verkehrsunfälle;Verletzte und Getötete;2019;201908;532;529;-4076;57;525
+Verkehrsunfälle;Verletzte und Getötete;2019;201909;609;645;1447;-558;522
+Verkehrsunfälle;Verletzte und Getötete;2019;201910;591;616;-296;-406;520
+Verkehrsunfälle;Verletzte und Getötete;2019;201911;453;485;-2335;-66;517
+Verkehrsunfälle;Verletzte und Getötete;2019;201912;378;348;-1656;862;520
+Verkehrsunfälle;Verletzte und Getötete;2018;Summe;6527;6058;;774;
+Verkehrsunfälle;Verletzte und Getötete;2018;201801;350;307;-691;1401;508
+Verkehrsunfälle;Verletzte und Getötete;2018;201802;328;334;-629;-18;508
+Verkehrsunfälle;Verletzte und Getötete;2018;201803;383;486;1677;-2119;499
+Verkehrsunfälle;Verletzte und Getötete;2018;201804;619;439;6162;41;514
+Verkehrsunfälle;Verletzte und Getötete;2018;201805;640;631;339;143;515
+Verkehrsunfälle;Verletzte und Getötete;2018;201806;732;668;1438;958;520
+Verkehrsunfälle;Verletzte und Getötete;2018;201807;852;752;1639;133;529
+Verkehrsunfälle;Verletzte und Getötete;2018;201808;529;504;-3791;496;531
+Verkehrsunfälle;Verletzte und Getötete;2018;201809;645;546;2193;1813;539
+Verkehrsunfälle;Verletzte und Getötete;2018;201810;616;572;-45;769;543
+Verkehrsunfälle;Verletzte und Getötete;2018;201811;485;443;-2127;948;546
+Verkehrsunfälle;Verletzte und Getötete;2018;201812;348;376;-2825;-745;544
+Verkehrsunfälle;Verletzte und Getötete;2017;Summe;6058;6409;;-548;
+Verkehrsunfälle;Verletzte und Getötete;2017;201701;307;380;-1942;-1921;528
+Verkehrsunfälle;Verletzte und Getötete;2017;201702;334;351;879;-484;527
+Verkehrsunfälle;Verletzte und Getötete;2017;201703;486;370;4551;3135;536
+Verkehrsunfälle;Verletzte und Getötete;2017;201704;439;545;-967;-1945;527
+Verkehrsunfälle;Verletzte und Getötete;2017;201705;631;602;4374;482;530
+Verkehrsunfälle;Verletzte und Getötete;2017;201706;668;691;586;-333;528
+Verkehrsunfälle;Verletzte und Getötete;2017;201707;752;742;1257;135;529
+Verkehrsunfälle;Verletzte und Getötete;2017;201708;504;540;-3298;-667;526
+Verkehrsunfälle;Verletzte und Getötete;2017;201709;546;759;833;-2806;508
+Verkehrsunfälle;Verletzte und Getötete;2017;201710;572;559;476;233;509
+Verkehrsunfälle;Verletzte und Getötete;2017;201711;443;489;-2255;-941;505
+Verkehrsunfälle;Verletzte und Getötete;2017;201712;376;381;-1512;-131;505
+Verkehrsunfälle;Verletzte und Getötete;2016;Summe;6409;6524;;-176;
+Verkehrsunfälle;Verletzte und Getötete;2016;201601;380;334;-2067;1377;548
+Verkehrsunfälle;Verletzte und Getötete;2016;201602;351;321;-763;935;550
+Verkehrsunfälle;Verletzte und Getötete;2016;201603;370;471;541;-2144;542
+Verkehrsunfälle;Verletzte und Getötete;2016;201604;545;598;473;-886;537
+Verkehrsunfälle;Verletzte und Getötete;2016;201605;602;604;1046;-33;537
+Verkehrsunfälle;Verletzte und Getötete;2016;201606;691;673;1478;267;539
+Verkehrsunfälle;Verletzte und Getötete;2016;201607;742;809;738;-828;533
+Verkehrsunfälle;Verletzte und Getötete;2016;201608;540;546;-2722;-11;532
+Verkehrsunfälle;Verletzte und Getötete;2016;201609;759;614;4056;2362;545
+Verkehrsunfälle;Verletzte und Getötete;2016;201610;559;569;-2635;-176;544
+Verkehrsunfälle;Verletzte und Getötete;2016;201611;489;506;-1252;-336;542
+Verkehrsunfälle;Verletzte und Getötete;2016;201612;381;479;-2209;-2046;534
+Verkehrsunfälle;Verletzte und Getötete;2015;Summe;6524;6668;;-216;
+Verkehrsunfälle;Verletzte und Getötete;2015;201501;334;412;-1913;-1893;549
+Verkehrsunfälle;Verletzte und Getötete;2015;201502;321;372;-389;-1371;545
+Verkehrsunfälle;Verletzte und Getötete;2015;201503;471;559;4673;-1574;538
+Verkehrsunfälle;Verletzte und Getötete;2015;201504;598;549;2696;893;542
+Verkehrsunfälle;Verletzte und Getötete;2015;201505;604;671;1;-999;536
+Verkehrsunfälle;Verletzte und Getötete;2015;201506;673;656;1142;259;538
+Verkehrsunfälle;Verletzte und Getötete;2015;201507;809;783;2021;332;540
+Verkehrsunfälle;Verletzte und Getötete;2015;201508;546;517;-3251;561;542
+Verkehrsunfälle;Verletzte und Getötete;2015;201509;614;620;1245;-97;542
+Verkehrsunfälle;Verletzte und Getötete;2015;201510;569;652;-733;-1273;535
+Verkehrsunfälle;Verletzte und Getötete;2015;201511;506;464;-1107;905;538
+Verkehrsunfälle;Verletzte und Getötete;2015;201512;479;413;-534;1598;544
+Verkehrsunfälle;Verletzte und Getötete;2014;Summe;6668;6522;;224;
+Verkehrsunfälle;Verletzte und Getötete;2014;201401;412;320;-26;2875;551
+Verkehrsunfälle;Verletzte und Getötete;2014;201402;372;326;-971;1411;555
+Verkehrsunfälle;Verletzte und Getötete;2014;201403;559;350;5027;5971;572
+Verkehrsunfälle;Verletzte und Getötete;2014;201404;549;523;-179;497;575
+Verkehrsunfälle;Verletzte und Getötete;2014;201405;671;530;2222;266;586
+Verkehrsunfälle;Verletzte und Getötete;2014;201406;656;734;-224;-1063;580
+Verkehrsunfälle;Verletzte und Getötete;2014;201407;783;976;1936;-1977;564
+Verkehrsunfälle;Verletzte und Getötete;2014;201408;517;645;-3397;-1984;553
+Verkehrsunfälle;Verletzte und Getötete;2014;201409;620;617;1992;49;553
+Verkehrsunfälle;Verletzte und Getötete;2014;201410;652;595;516;958;558
+Verkehrsunfälle;Verletzte und Getötete;2014;201411;464;483;-2883;-393;557
+Verkehrsunfälle;Verletzte und Getötete;2014;201412;413;423;-1099;-236;556
+Verkehrsunfälle;Verletzte und Getötete;2013;Summe;6522;6404;;184;
+Verkehrsunfälle;Verletzte und Getötete;2013;201301;320;338;95;-533;532
+Verkehrsunfälle;Verletzte und Getötete;2013;201302;326;290;188;1241;535
+Verkehrsunfälle;Verletzte und Getötete;2013;201303;350;526;736;-3346;521
+Verkehrsunfälle;Verletzte und Getötete;2013;201304;523;485;4943;784;524
+Verkehrsunfälle;Verletzte und Getötete;2013;201305;530;719;134;-2629;508
+Verkehrsunfälle;Verletzte und Getötete;2013;201306;734;681;3849;778;512
+Verkehrsunfälle;Verletzte und Getötete;2013;201307;976;730;3297;337;533
+Verkehrsunfälle;Verletzte und Getötete;2013;201308;645;635;-3391;157;534
+Verkehrsunfälle;Verletzte und Getötete;2013;201309;617;632;-434;-237;532
+Verkehrsunfälle;Verletzte und Getötete;2013;201310;595;580;-357;259;534
+Verkehrsunfälle;Verletzte und Getötete;2013;201311;483;471;-1882;255;535
+Verkehrsunfälle;Verletzte und Getötete;2013;201312;423;317;-1242;3344;544
+Verkehrsunfälle;Verletzte und Getötete;2012;Summe;6404;5869;;912;
+Verkehrsunfälle;Verletzte und Getötete;2012;201201;338;328;-865;305;490
+Verkehrsunfälle;Verletzte und Getötete;2012;201202;290;343;-142;-1545;486
+Verkehrsunfälle;Verletzte und Getötete;2012;201203;526;425;8138;2376;494
+Verkehrsunfälle;Verletzte und Getötete;2012;201204;485;604;-779;-197;484
+Verkehrsunfälle;Verletzte und Getötete;2012;201205;719;765;4825;-601;480
+Verkehrsunfälle;Verletzte und Getötete;2012;201206;681;472;-529;4428;498
+Verkehrsunfälle;Verletzte und Getötete;2012;201207;730;637;72;146;505
+Verkehrsunfälle;Verletzte und Getötete;2012;201208;635;487;-1301;3039;518
+Verkehrsunfälle;Verletzte und Getötete;2012;201209;632;519;-47;2177;527
+Verkehrsunfälle;Verletzte und Getötete;2012;201210;580;481;-823;2058;535
+Verkehrsunfälle;Verletzte und Getötete;2012;201211;471;438;-1879;753;538
+Verkehrsunfälle;Verletzte und Getötete;2012;201212;317;370;-327;-1432;534
+Verkehrsunfälle;Verletzte und Getötete;2011;Summe;5869;4822;;2171;
+Verkehrsunfälle;Verletzte und Getötete;2011;201101;328;192;1841;7083;413
+Verkehrsunfälle;Verletzte und Getötete;2011;201102;343;247;457;3887;421
+Verkehrsunfälle;Verletzte und Getötete;2011;201103;425;341;2391;2463;428
+Verkehrsunfälle;Verletzte und Getötete;2011;201104;604;216;4212;17963;461
+Verkehrsunfälle;Verletzte und Getötete;2011;201105;765;389;2666;9666;492
+Verkehrsunfälle;Verletzte und Getötete;2011;201106;472;517;-383;-87;488
+Verkehrsunfälle;Verletzte und Getötete;2011;201107;637;721;3496;-1165;481
+Verkehrsunfälle;Verletzte und Getötete;2011;201108;487;481;-2355;125;482
+Verkehrsunfälle;Verletzte und Getötete;2011;201109;519;534;657;-281;480
+Verkehrsunfälle;Verletzte und Getötete;2011;201110;481;524;-732;-821;477
+Verkehrsunfälle;Verletzte und Getötete;2011;201111;438;383;-894;1436;481
+Verkehrsunfälle;Verletzte und Getötete;2011;201112;370;277;-1553;3357;489
+Verkehrsunfälle;Verletzte und Getötete;2010;Summe;4822;4865;;-88;
+Verkehrsunfälle;Verletzte und Getötete;2010;201001;192;223;-509;-139;403
+Verkehrsunfälle;Verletzte und Getötete;2010;201002;247;340;2865;-2735;395
+Verkehrsunfälle;Verletzte und Getötete;2010;201003;341;245;3806;3918;403
+Verkehrsunfälle;Verletzte und Getötete;2010;201004;216;416;-3666;-4808;386
+Verkehrsunfälle;Verletzte und Getötete;2010;201005;389;535;8009;-2729;374
+Verkehrsunfälle;Verletzte und Getötete;2010;201006;517;443;329;167;380
+Verkehrsunfälle;Verletzte und Getötete;2010;201007;721;556;3946;2968;394
+Verkehrsunfälle;Verletzte und Getötete;2010;201008;481;466;-3329;322;395
+Verkehrsunfälle;Verletzte und Getötete;2010;201009;534;452;1102;1814;402
+Verkehrsunfälle;Verletzte und Getötete;2010;201010;524;432;-187;213;410
+Verkehrsunfälle;Verletzte und Getötete;2010;201011;383;366;-2691;464;411
+Verkehrsunfälle;Verletzte und Getötete;2010;201012;277;391;-2768;-2916;402
+Verkehrsunfälle;Verletzte und Getötete;2009;Summe;4865;4751;;24;
+Verkehrsunfälle;Verletzte und Getötete;2009;200901;223;307;-1801;-2736;389
+Verkehrsunfälle;Verletzte und Getötete;2009;200902;340;340;5247;0;389
+Verkehrsunfälle;Verletzte und Getötete;2009;200903;245;254;-2794;-354;388
+Verkehrsunfälle;Verletzte und Getötete;2009;200904;416;355;698;1718;393
+Verkehrsunfälle;Verletzte und Getötete;2009;200905;535;534;2861;19;393
+Verkehrsunfälle;Verletzte und Getötete;2009;200906;443;473;-172;-634;391
+Verkehrsunfälle;Verletzte und Getötete;2009;200907;556;538;2551;335;392
+Verkehrsunfälle;Verletzte und Getötete;2009;200908;466;480;-1619;-292;391
+Verkehrsunfälle;Verletzte und Getötete;2009;200909;452;422;-3;711;394
+Verkehrsunfälle;Verletzte und Getötete;2009;200910;432;455;-442;-505;392
+Verkehrsunfälle;Verletzte und Getötete;2009;200911;366;321;-1528;1402;396
+Verkehrsunfälle;Verletzte und Getötete;2009;200912;391;272;683;4375;405
+Verkehrsunfälle;Verletzte und Getötete;2008;Summe;4751;5223;;-904;
+Verkehrsunfälle;Verletzte und Getötete;2008;200801;307;268;-2585;1455;439
+Verkehrsunfälle;Verletzte und Getötete;2008;200802;340;277;1075;2274;444
+Verkehrsunfälle;Verletzte und Getötete;2008;200803;254;347;-2529;-268;436
+Verkehrsunfälle;Verletzte und Getötete;2008;200804;355;500;3976;-29;424
+Verkehrsunfälle;Verletzte und Getötete;2008;200805;534;591;5042;-964;419
+Verkehrsunfälle;Verletzte und Getötete;2008;200806;473;535;-1142;-1159;414
+Verkehrsunfälle;Verletzte und Getötete;2008;200807;538;511;1374;528;416
+Verkehrsunfälle;Verletzte und Getötete;2008;200808;480;422;-1078;1374;421
+Verkehrsunfälle;Verletzte und Getötete;2008;200809;422;462;-1208;-866;418
+Verkehrsunfälle;Verletzte und Getötete;2008;200810;455;491;782;-733;415
+Verkehrsunfälle;Verletzte und Getötete;2008;200811;321;405;-2945;-2074;408
+Verkehrsunfälle;Verletzte und Getötete;2008;200812;272;414;-1526;-343;396
+Verkehrsunfälle;Verletzte und Getötete;2007;Summe;5223;5804;;-1001;
+Verkehrsunfälle;Verletzte und Getötete;2007;200701;268;364;-4249;-2637;476
+Verkehrsunfälle;Verletzte und Getötete;2007;200702;277;279;336;-72;476
+Verkehrsunfälle;Verletzte und Getötete;2007;200703;347;375;2527;-747;473
+Verkehrsunfälle;Verletzte und Getötete;2007;200704;500;387;4409;292;483
+Verkehrsunfälle;Verletzte und Getötete;2007;200705;591;564;182;479;485
+Verkehrsunfälle;Verletzte und Getötete;2007;200706;535;479;-948;1169;490
+Verkehrsunfälle;Verletzte und Getötete;2007;200707;511;787;-449;-3507;467
+Verkehrsunfälle;Verletzte und Getötete;2007;200708;422;513;-1742;-1774;459
+Verkehrsunfälle;Verletzte und Getötete;2007;200709;462;490;948;-571;457
+Verkehrsunfälle;Verletzte und Getötete;2007;200710;491;632;628;-2231;445
+Verkehrsunfälle;Verletzte und Getötete;2007;200711;405;468;-1752;-1346;440
+Verkehrsunfälle;Verletzte und Getötete;2007;200712;414;466;222;-1116;435
+Verkehrsunfälle;Verletzte und Getötete;2006;Summe;5804;6402;;-934;
+Verkehrsunfälle;Verletzte und Getötete;2006;200601;364;306;-2087;1895;538
+Verkehrsunfälle;Verletzte und Getötete;2006;200602;279;282;-2335;-106;538
+Verkehrsunfälle;Verletzte und Getötete;2006;200603;375;385;3441;-26;537
+Verkehrsunfälle;Verletzte und Getötete;2006;200604;387;514;32;-2471;527
+Verkehrsunfälle;Verletzte und Getötete;2006;200605;564;618;4574;-874;522
+Verkehrsunfälle;Verletzte und Getötete;2006;200606;479;729;-1507;-3429;501
+Verkehrsunfälle;Verletzte und Getötete;2006;200607;787;675;643;1659;511
+Verkehrsunfälle;Verletzte und Getötete;2006;200608;513;582;-3482;-1186;505
+Verkehrsunfälle;Verletzte und Getötete;2006;200609;490;825;-448;-4061;477
+Verkehrsunfälle;Verletzte und Getötete;2006;200610;632;568;2898;1127;482
+Verkehrsunfälle;Verletzte und Getötete;2006;200611;468;458;-2595;218;483
+Verkehrsunfälle;Verletzte und Getötete;2006;200612;466;460;-43;13;484
+Verkehrsunfälle;Verletzte und Getötete;2005;Summe;6402;6219;;294;
+Verkehrsunfälle;Verletzte und Getötete;2005;200501;306;377;-2644;-1883;512
+Verkehrsunfälle;Verletzte und Getötete;2005;200502;282;310;-784;-903;510
+Verkehrsunfälle;Verletzte und Getötete;2005;200503;385;403;3652;-447;509
+Verkehrsunfälle;Verletzte und Getötete;2005;200504;514;461;3351;115;513
+Verkehrsunfälle;Verletzte und Getötete;2005;200505;618;600;2023;3;514
+Verkehrsunfälle;Verletzte und Getötete;2005;200506;729;598;1796;2191;525
+Verkehrsunfälle;Verletzte und Getötete;2005;200507;675;811;-741;-1677;514
+Verkehrsunfälle;Verletzte und Getötete;2005;200508;582;584;-1378;-34;514
+Verkehrsunfälle;Verletzte und Getötete;2005;200509;825;659;4175;2519;528
+Verkehrsunfälle;Verletzte und Getötete;2005;200510;568;561;-3115;125;528
+Verkehrsunfälle;Verletzte und Getötete;2005;200511;458;439;-1937;433;530
+Verkehrsunfälle;Verletzte und Getötete;2005;200512;460;416;44;1058;534
+Verkehrsunfälle;Verletzte und Getötete;2004;Summe;6219;6365;;-229;
+Verkehrsunfälle;Verletzte und Getötete;2004;200401;377;358;-2353;531;532
+Verkehrsunfälle;Verletzte und Getötete;2004;200402;310;308;-1777;65;532
+Verkehrsunfälle;Verletzte und Getötete;2004;200403;403;476;30;-1534;526
+Verkehrsunfälle;Verletzte und Getötete;2004;200404;461;535;1439;-1383;520
+Verkehrsunfälle;Verletzte und Getötete;2004;200405;600;632;3015;-506;517
+Verkehrsunfälle;Verletzte und Getötete;2004;200406;598;723;-33;-1729;507
+Verkehrsunfälle;Verletzte und Getötete;2004;200407;811;644;3562;2593;521
+Verkehrsunfälle;Verletzte und Getötete;2004;200408;584;577;-2799;121;521
+Verkehrsunfälle;Verletzte und Getötete;2004;200409;659;560;1284;1768;530
+Verkehrsunfälle;Verletzte und Getötete;2004;200410;561;595;-1487;-571;527
+Verkehrsunfälle;Verletzte und Getötete;2004;200411;439;464;-2175;-539;525
+Verkehrsunfälle;Verletzte und Getötete;2004;200412;416;493;-524;-1562;518
+Verkehrsunfälle;Verletzte und Getötete;2003;Summe;6365;7026;;-941;
+Verkehrsunfälle;Verletzte und Getötete;2003;200301;358;431;-914;-1694;579
+Verkehrsunfälle;Verletzte und Getötete;2003;200302;308;393;-1397;-2163;572
+Verkehrsunfälle;Verletzte und Getötete;2003;200303;476;520;5455;-846;569
+Verkehrsunfälle;Verletzte und Getötete;2003;200304;535;521;1239;269;570
+Verkehrsunfälle;Verletzte und Getötete;2003;200305;632;654;1813;-336;568
+Verkehrsunfälle;Verletzte und Getötete;2003;200306;723;833;144;-1321;559
+Verkehrsunfälle;Verletzte und Getötete;2003;200307;644;865;-1093;-2555;540
+Verkehrsunfälle;Verletzte und Getötete;2003;200308;577;601;-104;-399;538
+Verkehrsunfälle;Verletzte und Getötete;2003;200309;560;621;-295;-982;533
+Verkehrsunfälle;Verletzte und Getötete;2003;200310;595;630;625;-556;530
+Verkehrsunfälle;Verletzte und Getötete;2003;200311;464;563;-2202;-1758;522
+Verkehrsunfälle;Verletzte und Getötete;2003;200312;493;394;625;2513;530
+Verkehrsunfälle;Verletzte und Getötete;2002;Summe;7026;7452;;-572;
+Verkehrsunfälle;Verletzte und Getötete;2002;200201;431;448;-1499;-379;620
+Verkehrsunfälle;Verletzte und Getötete;2002;200202;393;439;-882;-1048;616
+Verkehrsunfälle;Verletzte und Getötete;2002;200203;520;535;3232;-28;615
+Verkehrsunfälle;Verletzte und Getötete;2002;200204;521;578;19;-986;610
+Verkehrsunfälle;Verletzte und Getötete;2002;200205;654;817;2553;-1995;596
+Verkehrsunfälle;Verletzte und Getötete;2002;200206;833;679;2737;2268;609
+Verkehrsunfälle;Verletzte und Getötete;2002;200207;865;921;384;-608;604
+Verkehrsunfälle;Verletzte und Getötete;2002;200208;601;600;-3052;17;604
+Verkehrsunfälle;Verletzte und Getötete;2002;200209;621;643;333;-342;603
+Verkehrsunfälle;Verletzte und Getötete;2002;200210;630;717;145;-1213;595
+Verkehrsunfälle;Verletzte und Getötete;2002;200211;563;568;-1063;-88;595
+Verkehrsunfälle;Verletzte und Getötete;2002;200212;394;507;-3002;-2229;586
+Verkehrsunfälle;Verletzte und Getötete;2001;Summe;7452;7053;;566;
+Verkehrsunfälle;Verletzte und Getötete;2001;200101;448;434;-1301;323;589
+Verkehrsunfälle;Verletzte und Getötete;2001;200102;439;419;-201;477;591
+Verkehrsunfälle;Verletzte und Getötete;2001;200103;535;509;2187;511;593
+Verkehrsunfälle;Verletzte und Getötete;2001;200104;578;557;804;377;595
+Verkehrsunfälle;Verletzte und Getötete;2001;200105;817;675;4135;2104;606
+Verkehrsunfälle;Verletzte und Getötete;2001;200106;679;685;-1689;-88;606
+Verkehrsunfälle;Verletzte und Getötete;2001;200107;921;744;3564;2379;621
+Verkehrsunfälle;Verletzte und Getötete;2001;200108;600;647;-3485;-726;617
+Verkehrsunfälle;Verletzte und Getötete;2001;200109;643;675;717;-474;614
+Verkehrsunfälle;Verletzte und Getötete;2001;200110;717;615;1151;1659;623
+Verkehrsunfälle;Verletzte und Getötete;2001;200111;568;578;-2078;-173;622
+Verkehrsunfälle;Verletzte und Getötete;2001;200112;507;515;-1074;-155;621
+Verkehrsunfälle;Verletzte und Getötete;2000;Summe;7053;;;;
+Verkehrsunfälle;Verletzte und Getötete;2000;200001;434;;;;434
+Verkehrsunfälle;Verletzte und Getötete;2000;200002;419;;-346;;427
+Verkehrsunfälle;Verletzte und Getötete;2000;200003;509;;2148;;454
+Verkehrsunfälle;Verletzte und Getötete;2000;200004;557;;943;;480
+Verkehrsunfälle;Verletzte und Getötete;2000;200005;675;;2118;;519
+Verkehrsunfälle;Verletzte und Getötete;2000;200006;685;;148;;547
+Verkehrsunfälle;Verletzte und Getötete;2000;200007;744;;861;;575
+Verkehrsunfälle;Verletzte und Getötete;2000;200008;647;;-1304;;584
+Verkehrsunfälle;Verletzte und Getötete;2000;200009;675;;433;;594
+Verkehrsunfälle;Verletzte und Getötete;2000;200010;615;;-889;;596
+Verkehrsunfälle;Verletzte und Getötete;2000;200011;578;;-602;;594
+Verkehrsunfälle;Verletzte und Getötete;2000;200012;515;;-109;;588

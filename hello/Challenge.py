@@ -8,6 +8,9 @@ import matplotlib.pyplot as plt
 # import the data from the csv file
 import numpy as np
 
+# import a library for Linear Regression
+from sklearn import linear_model
+
 
 def visualize(categories, months, incidents, useLog=False):
     # visualize the data
@@ -27,6 +30,7 @@ def visualize(categories, months, incidents, useLog=False):
     # show the plot
     plt.show()
 
+
 def get_prediction(year, month):
     # get the prediction for the given month
     # the prediction is the average of the last 12 months
@@ -36,6 +40,10 @@ def get_prediction(year, month):
     # check if the date is in the data
 
     pass
+
+
+def get_month_diff(date1, date2):
+    return ((date1.date().year - date2.date().year) * 12) + date1.date().month - date2.date().month
 
 
 filename = 'data/monatszahlen2112_verkehrsunfaelle.csv'
@@ -77,6 +85,8 @@ for category in categories:
     # convert the incidents to integers
     incidents[category] = incidents[category].astype(int)
 
+
+month_diff = {}
 for category in categories:
     # convert the months to dates using the strptime function
     # add a '/' between the year and the month
@@ -86,7 +96,12 @@ for category in categories:
     # sort the months and incidents by the order of the months
     months[category], incidents[category] = (list(t) for t in zip(*sorted(zip(months[category], incidents[category]))))
 
-visualize(categories, months, incidents, useLog=True)
+zero_date = min(months[categories[0]])
+for category in categories:
+    # calculate the num of months difference to the zero_date in the category
+    month_diff[category] = np.array([get_month_diff(m, zero_date) for m in months[category]])
+
+# visualize(categories, months, incidents, useLog=True)
 
 
 # forecast the values for:
@@ -95,12 +110,28 @@ visualize(categories, months, incidents, useLog=True)
 # Year: '2021'
 # Month: '01'
 
+# set up a simple linear regression model for the predictions
+models = {}
+for category in categories:
+    models[category] = linear_model.LinearRegression()
+    models[category].fit(np.array(month_diff[category]).reshape(-1, 1), incidents[category])
+
+
+new_type = 'Alkoholunfälle'
 new_month = '2021/01'
 new_date = datetime.strptime(new_month, '%Y/%m')
-new_type = 'Alkoholunfälle'
 months[new_type].append(new_date)
+new_month_diff = get_month_diff(new_date, zero_date)
+
 # we use a really simple model that only predicts the mean of the data
-incidents[new_type].append(np.mean(incidents[new_type]))
+# incidents[new_type].append(np.mean(incidents[new_type]))
+
+# convert the new date to the needed format for the model
+new_date = np.array([new_month_diff]).reshape(-1, 1)
+prediction = models[new_type].predict(new_date)
+# prediction = get_prediction(year=)
+
+incidents[new_type].append(prediction)
 
 visualize(categories[0:1], months, incidents)
 
