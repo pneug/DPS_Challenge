@@ -36,10 +36,10 @@ def visualize(categories, months, incidents, useLog=False):
 
 
 class Challenge:
-    def setup(self, visualize_data=False):
-        filename = 'hello/data/monatszahlen2112_verkehrsunfaelle.csv'
-        with open(filename) as f:
-            reader = csv.reader(f, delimiter=';')
+    def setup(self, visualize_data=False, prefix="hello/"):
+        filename = prefix + 'data/monatszahlen2112_verkehrsunfaelle.csv'
+        with open(filename, 'r', encoding='ISO-8859-1', newline='') as f:
+            reader = csv.reader(f, delimiter=';', )
             data = list(reader)
 
         data_arr = np.array(data)
@@ -121,7 +121,7 @@ class Challenge:
         return self.models[category].predict(new_date)
 
     def main(self):
-        self.setup(visualize_data=True)
+        self.setup(visualize_data=True, prefix="")
 
         category = 'Alkoholunfälle'
         new_month = '2021/01'
