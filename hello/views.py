@@ -17,6 +17,7 @@ from .Challenge import Challenge
 @csrf_exempt
 def index(request):
     # times = int(os.environ.get('TIMES', 3))
+    return HttpResponse(str(request.body) + str(type(request.body)))
     json_body = str(request.body)
     if not "month" in json_body:
         return HttpResponse("month is missing")
