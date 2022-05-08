@@ -36,7 +36,7 @@ def index(request):
         prediction = challenge.get_prediction(date, json_body["category"])
     else:
         prediction = challenge.get_prediction(date)
-    return HttpResponse("{\n\"prediction\":" + str(prediction) + "\n}")
+    return HttpResponse("{\n\"prediction\":" + str(prediction[0]) + "\n}")
     # return HttpResponse('Hello! ' * 5)
 
 

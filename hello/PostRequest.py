@@ -10,16 +10,7 @@ body = {
     "month":10
 }
 
-#csrf_client = Client(enforce_csrf_checks=True)
-
-# Retrieve the CSRF token first
-#csrf_client.get(url)  # sets cookie
-#csrftoken = csrf_client.cookies['csrftoken']
-
 # send a POST request
-# r = requests.post(url, data=body, headers={'referer': url})
 r = requests.post(url, data=body, headers=dict(Referer=url))
-print("text" + str(r.text))
-print("text" + str(r.status_code))
-print("text" + str(r.headers))
-print("text" + str(r.content))
+print(str(r.text))
+print("Code: " + str(r.status_code))
