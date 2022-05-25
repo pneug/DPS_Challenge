@@ -13,9 +13,14 @@ import os
 from .Challenge import Challenge
 
 
+curr_room = 0
+
+
 # Create your views here.
 @csrf_exempt
 def index(request):
+    global curr_room
+
     # times = int(os.environ.get('TIMES', 3))
     # convert the body in form of a json to a dictionary
     json_body = request.POST.dict()
@@ -28,6 +33,9 @@ def index(request):
         json_body["year"] = "2021"
         # return HttpResponse("year is missing")
 
+    if "room_nr" in json_body:
+        curr_room = json_body["room_nr"]
+
     challenge = Challenge()
     challenge.setup()
     date = datetime.strptime(json_body["year"] + "/" + json_body["month"], '%Y/%m')
@@ -36,7 +44,9 @@ def index(request):
         prediction = challenge.get_prediction(date, json_body["category"])
     else:
         prediction = challenge.get_prediction(date)
-    return HttpResponse("{\n\"prediction\":" + str(prediction[0]) + "\n}")
+    return HttpResponse("{\n\"prediction\":" + str(prediction[0]) +
+                        "\"room_nr\": " + str(curr_room) +
+                        "\n}")
     # return HttpResponse('Hello! ' * 5)
 
 
@@ -48,4 +58,8 @@ def db(request):
     greetings = Greeting.objects.all()
 
     return render(request, "db.html", {"greetings": greetings})
+
+
+def stats(request):
+    return HttpResponse("{\n\"prediction\":" + str(prediction[0]) + "\n}")
 
