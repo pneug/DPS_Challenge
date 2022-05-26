@@ -40,13 +40,13 @@ def index(request):
         curr_room = json_body["room_nr"]
         stat_dict["room_nr"] = json_body["room_nr"]
 
-    if "playerCount" in json_body:
-        stat_dict["playerCount"] = json_body["playerCount"]
-        try:
-            for i in range(stat_dict["playerCount"]):
-                stat_dict["player_" + str(i)] = json_body["player_" + str(i)]
-        except e:
-            stat_dict["error"] = str(e)
+    #if "playerCount" in json_body:
+    #    stat_dict["playerCount"] = json_body["playerCount"]
+    #    try:
+    #        for i in range(stat_dict["playerCount"]):
+    #            stat_dict["player_" + str(i)] = json_body["player_" + str(i)]
+    #    except e:
+    #        stat_dict["error"] = str(e)
 
     challenge = Challenge()
     challenge.setup()
@@ -57,7 +57,7 @@ def index(request):
     else:
         prediction = challenge.get_prediction(date)
 
-    response = stat_dict.copy()
+    response = json_body.copy()
     response["prediction"] = prediction[0]
     response = json.dumps(response)
     return HttpResponse(response)
