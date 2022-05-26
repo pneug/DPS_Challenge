@@ -42,8 +42,11 @@ def index(request):
 
     if "playerCount" in json_body:
         stat_dict["playerCount"] = json_body["playerCount"]
-        for i in range(stat_dict["playerCount"]):
-            stat_dict["player_" + str(i)] = json_body["player_" + str(i)]
+        try:
+            for i in range(stat_dict["playerCount"]):
+                stat_dict["player_" + str(i)] = json_body["player_" + str(i)]
+        except e:
+            stat_dict["error"] = str(e)
 
     challenge = Challenge()
     challenge.setup()
