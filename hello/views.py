@@ -55,6 +55,7 @@ def index(request):
 
     response = stat_dict.copy()
     response["prediction"] = prediction[0]
+    response = json.dumps(response)
     return HttpResponse(response)
     # return HttpResponse("{\n\"prediction\":" + str(prediction[0]) +
     #                     "\"room_nr\": " + str(curr_room) +
