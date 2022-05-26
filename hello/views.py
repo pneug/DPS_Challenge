@@ -14,12 +14,14 @@ from .Challenge import Challenge
 
 
 curr_room = 0
+stat_dict = {}
 
 
 # Create your views here.
 @csrf_exempt
 def index(request):
     global curr_room
+    global stat_dict
 
     # times = int(os.environ.get('TIMES', 3))
     # convert the body in form of a json to a dictionary
@@ -35,6 +37,12 @@ def index(request):
 
     if "room_nr" in json_body:
         curr_room = json_body["room_nr"]
+        stat_dict["room_nr"] = json_body["room_nr"]
+
+    if "playerCount" in json_body:
+        stat_dict["room_nr"] = json_body["playerCount"]
+        for i in range(stat_dict["playerCount"]):
+            stat_dict["player_" + str(i)] = json_body["player_" + str(i)]
 
     challenge = Challenge()
     challenge.setup()
@@ -44,9 +52,13 @@ def index(request):
         prediction = challenge.get_prediction(date, json_body["category"])
     else:
         prediction = challenge.get_prediction(date)
-    return HttpResponse("{\n\"prediction\":" + str(prediction[0]) +
-                        "\"room_nr\": " + str(curr_room) +
-                        "\n}")
+
+    response = stat_dict.copy()
+    response["prediction"] = prediction[0]
+    return HttpResponse(response)
+    # return HttpResponse("{\n\"prediction\":" + str(prediction[0]) +
+    #                     "\"room_nr\": " + str(curr_room) +
+    #                     "\n}")
     # return HttpResponse('Hello! ' * 5)
 
 
