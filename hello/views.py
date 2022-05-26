@@ -8,6 +8,7 @@ from datetime import datetime
 
 import requests
 import os
+import json
 
 # import the Challenge class from the python file Challenge.py
 from .Challenge import Challenge
