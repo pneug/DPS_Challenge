@@ -43,8 +43,9 @@ def index(request):
     if "playerCount" in json_body:
         stat_dict["playerCount"] = json_body["playerCount"]
         try:
-            for i in range(stat_dict["playerCount"]):
+            for i in range(int(stat_dict["playerCount"])):
                 stat_dict["player_" + str(i)] = json_body["player_" + str(i)]
+                json_body["success"] = 1
         except Exception as e:
             json_body["error"] = str(e)
 
