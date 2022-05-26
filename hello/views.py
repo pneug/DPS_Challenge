@@ -41,7 +41,7 @@ def index(request):
         stat_dict["room_nr"] = json_body["room_nr"]
 
     if "playerCount" in json_body:
-        stat_dict["room_nr"] = json_body["playerCount"]
+        stat_dict["playerCount"] = json_body["playerCount"]
         for i in range(stat_dict["playerCount"]):
             stat_dict["player_" + str(i)] = json_body["player_" + str(i)]
 
