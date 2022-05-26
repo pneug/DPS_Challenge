@@ -46,7 +46,7 @@ def index(request):
             for i in range(stat_dict["playerCount"]):
                 stat_dict["player_" + str(i)] = json_body["player_" + str(i)]
         except Exception as e:
-            stat_dict["error"] = str(e)
+            json_body["error"] = str(e)
 
     challenge = Challenge()
     challenge.setup()
