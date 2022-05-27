@@ -14,9 +14,6 @@ import json
 from .Challenge import Challenge
 
 
-
-
-
 curr_room = 0
 stat_dict = {}
 

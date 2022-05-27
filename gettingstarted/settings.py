@@ -57,6 +57,7 @@ MIDDLEWARE = [
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5000",
     "http://localhost:3000",
+    "https://alexanderpilotto.de/",
 ]
 
 ROOT_URLCONF = "gettingstarted.urls"
