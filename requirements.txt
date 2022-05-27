@@ -4,3 +4,4 @@ django-heroku
 requests
 matplotlib
 sklearn
+django-cors-headers
