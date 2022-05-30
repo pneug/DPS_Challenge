@@ -56,8 +56,8 @@ def index(request):
 
     response = stat_dict.copy()
     response["prediction"] = prediction[0]
-    response["Num greetings"] = len(Greeting.objects)
-    response["spawnRoom"] = 1 + len(Greeting.objects) % 2
+    response["Num greetings"] = len(Greeting.objects.all())
+    response["spawnRoom"] = 1 + len(Greeting.objects.all()) % 2
 
     response = json.dumps(response)
     return HttpResponse(response)
