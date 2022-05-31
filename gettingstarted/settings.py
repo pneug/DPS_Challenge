@@ -58,6 +58,7 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:5000",
     "http://localhost:3000",
     "https://alexanderpilotto.de/",
+    "https://virtual-world2.herokuapp.com/",
 ]
 
 ROOT_URLCONF = "gettingstarted.urls"
