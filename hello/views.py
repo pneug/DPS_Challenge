@@ -19,6 +19,19 @@ stat_dict = {}
 
 room_settings = {}
 
+default_room_0 = {
+    "roomName": "Lobby",
+    "roomTitle": "Lobby",
+    "roomVersion": 0
+}
+
+default_room_1 = {
+    "roomName": "NetworkingArea",
+    "roomTitle": "Networking Area",
+    "roomVersion": 1
+}
+default_rooms = [default_room_0, default_room_1]
+
 
 # Create your views here.
 @csrf_exempt
@@ -51,7 +64,8 @@ def index(request):
         pass
 
     if "GetSpawnRoom" in json_body:
-        response = {"spawnRoom": 1 + len(Greeting.objects.all()) % 2}
+        response = default_rooms[len(Greeting.objects.all()) % 2]
+        # response = {"roomName": 1 + len(Greeting.objects.all()) % 2}
         # response["Num greetings"] = len(Greeting.objects.all())
     else:
         response = stat_dict.copy()
