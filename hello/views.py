@@ -22,13 +22,14 @@ room_settings = {}
 default_room_0 = {
     "roomName": "Lobby",
     "roomTitle": "Lobby",
-    "roomVersion": 0
+    "roomVersion": 0,
 }
 
 default_room_1 = {
     "roomName": "NetworkingArea",
     "roomTitle": "Networking Area",
-    "roomVersion": 1
+    "roomVersion": 1,
+    "roomIconId": 2,
 }
 default_rooms = [default_room_0, default_room_1]
 
