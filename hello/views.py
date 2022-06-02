@@ -33,6 +33,8 @@ default_room_1 = {
 }
 default_rooms = [default_room_0, default_room_1]
 
+player_data = {}
+
 
 # Create your views here.
 @csrf_exempt
@@ -61,15 +63,24 @@ def index(request):
         for i in range(int(stat_dict["playerCount"])):
             stat_dict["player_" + str(i)] = json_body["player_" + str(i)]
 
+    if "name" in json_body and "date" in json_body and "iduser" in json_body:
+        player_data[json_body["name"]] = (json_body["date"], iduser["date"])
+
     if "setRoomSettings" in json_body:
         pass
 
     if "GetSpawnRoom" in json_body:
-        response = default_rooms[len(Greeting.objects.all()) % 2]
+        if "GetSpawnRoom" in player_data:
+            room_num = player_data[json_body["GetSpawnRoom"]][1]
+        else:
+            room_num = len(Greeting.objects.all()) % 2
+        response = default_rooms[room_num]
         # response = {"roomName": 1 + len(Greeting.objects.all()) % 2}
         # response["Num greetings"] = len(Greeting.objects.all())
     else:
         response = stat_dict.copy()
+        for player in player_data:
+            response[player] = player_data[player][1]
 
     response = json.dumps(response)
     return HttpResponse(response)
